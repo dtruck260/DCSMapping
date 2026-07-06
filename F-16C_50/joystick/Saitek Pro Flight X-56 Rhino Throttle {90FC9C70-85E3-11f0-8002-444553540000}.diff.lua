@@ -136,14 +136,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3003pnilu3003cd19vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "EMER STORES JETTISON Button",
-		},
 		["d3012pnilu3012cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -155,7 +147,7 @@ local diff = {
 		["d3012pnilu3012cd2vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN11",
 				},
 			},
 			["name"] = "Autopilot PITCH Switch - Down",
@@ -171,7 +163,7 @@ local diff = {
 		["d3013pnilu3013cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN8",
+					["key"] = "JOY_BTN10",
 				},
 			},
 			["name"] = "Autopilot PITCH Switch - Up",
@@ -207,38 +199,6 @@ local diff = {
 				},
 			},
 			["name"] = "ICP LIST Override Button - LIST",
-		},
-		["d3016pnilunilcd19vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "MASTER ARM Switch - Down",
-		},
-		["d3016pnilunilcd19vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "MASTER ARM Switch - Up",
-		},
-		["d3016pnilunilcd39vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "PLAIN Cipher Switch - CRAD 2",
-		},
-		["d3016pnilunilcd39vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "PLAIN Cipher Switch - CRAD 1",
 		},
 		["d3020pnilu3020cd16vd1vpnilvu0"] = {
 			["added"] = {
@@ -288,6 +248,14 @@ local diff = {
 			},
 			["name"] = "DOGFIGHT/Missile Override 3-pos Switch: DOGFIGHT<>CENTER",
 		},
+		["d3030pnilu3030cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "ICP DED Increment/Decrement Switch - Increment",
+		},
 		["d3031pnilu3031cd16vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -304,10 +272,18 @@ local diff = {
 			},
 			["name"] = "SPD BRK Switch: Fwd/RETRACT <>OFF",
 		},
-		["d3033pnilunilcd2vd-1vpnilvunil"] = {
+		["d3031pnilu3031cd17vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "ICP DED Increment/Decrement Switch - Decrement",
+		},
+		["d3033pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
 				},
 			},
 			["name"] = "Autopilot ROLL Switch - Down",
@@ -315,7 +291,7 @@ local diff = {
 		["d3033pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "Autopilot ROLL Switch - Up",
@@ -328,21 +304,21 @@ local diff = {
 			},
 			["name"] = "ENABLE Switch - Depress",
 		},
-		["dnilp3033unilcd16vdnilvp1vunil"] = {
+		["d430pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN30",
+					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "ANT ELEV Knob - CW",
+			["name"] = "LG Handle - UP",
 		},
-		["dnilp3034unilcd16vdnilvp-1vunil"] = {
+		["d431pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN31",
+					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "ANT ELEV Knob - CCW",
+			["name"] = "LG Handle - DN",
 		},
 	},
 }

@@ -1,8 +1,6 @@
 local disabled = {
 	["devices"] = {
-		["HeadTracker"] = true,
-		["TrackIR"] = true,
 	},
-	["pnp"] = true,
+	["pnp"] = false,
 }
 return disabled
