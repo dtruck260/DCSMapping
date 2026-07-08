@@ -58,14 +58,6 @@ local diff = {
 			},
 			["name"] = "Nose Wheel Steering (NWS)",
 		},
-		["d3013pnilu3013cd25vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Sight Electrical Cage",
-		},
 		["d3014pnilu3014cd15vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

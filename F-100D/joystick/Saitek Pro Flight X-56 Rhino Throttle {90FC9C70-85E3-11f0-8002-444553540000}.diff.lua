@@ -66,6 +66,14 @@ local diff = {
 			},
 			["name"] = "Afterburner - TOGGLE",
 		},
+		["d3013pnilu3013cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Sight Electrical Cage",
+		},
 	},
 }
 return diff
