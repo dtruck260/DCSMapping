@@ -50,7 +50,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Dispense Countermeasures",
+			["name"] = "Dispense Countermeasures (Chaff/Flare)",
 		},
 		["d3020pnilu3020cd27vd1vpnilvu0"] = {
 			["added"] = {
@@ -58,7 +58,7 @@ local diff = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Air Refuel (AAR) Release Button",
+			["name"] = "Air Refueling (AAR) Release Button",
 		},
 		["d3122pnilu3122cd78vd1vpnilvu0"] = {
 			["added"] = {

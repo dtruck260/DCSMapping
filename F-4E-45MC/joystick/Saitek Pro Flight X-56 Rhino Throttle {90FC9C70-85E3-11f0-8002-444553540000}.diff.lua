@@ -52,21 +52,31 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd85vd-1vpnilvu0"] = {
+		["d3001pnilunilcd20vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Seat Position - Up (Hold)",
+			["name"] = "Landing Gear - Up",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
 		},
-		["d3001pnilu3001cd85vd1vpnilvu0"] = {
+		["d3001pnilunilcd20vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Seat Position - Down (Hold)",
+			["name"] = "Landing Gear - Down",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
 		},
 		["d3006pnilunilcd25vd-1vpnilvunil"] = {
 			["name"] = "Flaps/Slats Switch - [Step Up]",
@@ -179,6 +189,14 @@ local diff = {
 				},
 			},
 			["name"] = "Gun/Missile Pinky Switch - Radar",
+		},
+		["d3150pnilu3150cd78vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Jester UI Action (short, hold)",
 		},
 	},
 }

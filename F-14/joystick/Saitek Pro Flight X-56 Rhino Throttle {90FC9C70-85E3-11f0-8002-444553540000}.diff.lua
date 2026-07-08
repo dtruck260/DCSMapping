@@ -58,37 +58,29 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3016pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Gears Up",
+		},
+		["d3016pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Gears Down",
+		},
 		["d3024pnilu3024cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "Wing Sweep Auto Mode",
-		},
-		["d3025pnilu3025cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Wing Sweep Forward",
-		},
-		["d3026pnilu3026cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN19",
 				},
 			},
-			["name"] = "Wing Sweep Aft",
-		},
-		["d3027pnilu3027cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Wing Sweep Bomb Mode",
+			["name"] = "Wing Sweep Auto Mode",
 		},
 		["d3038pnilunilcd22vd-1vpnilvunil"] = {
 			["added"] = {
@@ -129,22 +121,6 @@ local diff = {
 				},
 			},
 			["name"] = "Autopilot On",
-		},
-		["d3068pnilunilcd21vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Refuel Probe Retract",
-		},
-		["d3068pnilunilcd21vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Refuel Probe extend, Refuel All",
 		},
 		["d3079pnilunilcd55vd-0.5vpnilvunil"] = {
 			["added"] = {
@@ -193,6 +169,14 @@ local diff = {
 				},
 			},
 			["name"] = "PLM button",
+		},
+		["d3550pnilu3550cd62vd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Toggle Menu",
 		},
 		["d3653pnilunilcd12vd0vpnilvunil"] = {
 			["added"] = {
