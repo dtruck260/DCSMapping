@@ -10,6 +10,22 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilunilcd15vd0.3vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Gun Selector Switch - ALL",
+		},
+		["d3001pnilunilcd15vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Gun Selector Switch - MISSILES",
+		},
 		["d3002pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {

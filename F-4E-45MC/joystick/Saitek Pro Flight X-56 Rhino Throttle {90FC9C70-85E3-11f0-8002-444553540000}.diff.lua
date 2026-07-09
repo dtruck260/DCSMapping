@@ -79,6 +79,11 @@ local diff = {
 			},
 		},
 		["d3006pnilunilcd25vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
 			["name"] = "Flaps/Slats Switch - [Step Up]",
 			["removed"] = {
 				[1] = {
@@ -87,6 +92,11 @@ local diff = {
 			},
 		},
 		["d3006pnilunilcd25vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
 			["name"] = "Flaps/Slats Switch - [Step Down]",
 			["removed"] = {
 				[1] = {
@@ -113,7 +123,7 @@ local diff = {
 		["d3013pnilunilcd25vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN23",
+					["key"] = "JOY_BTN28",
 				},
 			},
 			["name"] = "Speed Brake - [Aft]",
@@ -121,7 +131,7 @@ local diff = {
 		["d3013pnilunilcd25vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN21",
+					["key"] = "JOY_BTN29",
 				},
 			},
 			["name"] = "Speed Brake - [Forward]",
