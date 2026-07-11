@@ -47,14 +47,6 @@ local diff = {
 				},
 			},
 		},
-		["a2012cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Zoom View",
-		},
 		["a3003cd30"] = {
 			["added"] = {
 				[1] = {
@@ -66,23 +58,18 @@ local diff = {
 		["a3028cd16"] = {
 			["added"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["hardwareDetent"] = false,
-						["hardwareDetentAB"] = 0,
-						["hardwareDetentMax"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RZ",
+					["key"] = "JOY_Z",
 				},
 			},
 			["name"] = "MAN RNG Knob",
+		},
+		["a3032cd16"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "ANT ELEV Knob",
 		},
 		["a3041cd17"] = {
 			["added"] = {
@@ -136,6 +123,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3003pnilu3003cd19vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "EMER STORES JETTISON Button",
+		},
 		["d3012pnilu3012cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -168,14 +163,6 @@ local diff = {
 			},
 			["name"] = "Autopilot PITCH Switch - Up",
 		},
-		["d3014pnilu3014cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Countermeasures Management Switch - Fwd",
-		},
 		["d3014pnilu3014cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -184,14 +171,6 @@ local diff = {
 			},
 			["name"] = "ICP IFF Override Button - IFF",
 		},
-		["d3015pnilu3015cd16vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "Countermeasures Management Switch - Aft",
-		},
 		["d3015pnilu3015cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -199,14 +178,6 @@ local diff = {
 				},
 			},
 			["name"] = "ICP LIST Override Button - LIST",
-		},
-		["d3020pnilu3020cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "CAMERA/GUN Trigger - FIRST DETENT",
 		},
 		["d3024pnilu3024cd16vd1vpnilvu0"] = {
 			["added"] = {
@@ -224,6 +195,22 @@ local diff = {
 			},
 			["name"] = "Transmit Switch - UHF (call radio menu)",
 		},
+		["d3026pnilu3026cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Transmit Switch - IFF OUT",
+		},
+		["d3027pnilu3027cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Transmit Switch - IFF IN",
+		},
 		["d3029pnilu3029cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -232,22 +219,6 @@ local diff = {
 			},
 			["name"] = "UNCAGE Switch",
 		},
-		["d3030pnilu3030cd16vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "DOGFIGHT/Missile Override 3-pos Switch: MISSILE OVERRIDE<>CENTER",
-		},
-		["d3030pnilu3030cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "DOGFIGHT/Missile Override 3-pos Switch: DOGFIGHT<>CENTER",
-		},
 		["d3030pnilu3030cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -255,6 +226,22 @@ local diff = {
 				},
 			},
 			["name"] = "ICP DED Increment/Decrement Switch - Increment",
+		},
+		["d3030pnilunilcd16vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "DOGFIGHT/Missile Override Switch - MISSILE OVERRIDE",
+		},
+		["d3030pnilunilcd16vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "DOGFIGHT/Missile Override Switch - DOGFIGHT",
 		},
 		["d3031pnilu3031cd16vd-1vpnilvu0"] = {
 			["added"] = {
@@ -303,6 +290,14 @@ local diff = {
 				},
 			},
 			["name"] = "ENABLE Switch - Depress",
+		},
+		["d3044pnilunilcd16vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "DOGFIGHT/Missile Override Switch - DOGFIGHT/CENTER",
 		},
 		["d430pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

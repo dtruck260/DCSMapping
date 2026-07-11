@@ -98,7 +98,7 @@ local diff = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Consent To Fire",
+			["name"] = "George AI - Multifunctional Input (Center)",
 		},
 		["d97pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

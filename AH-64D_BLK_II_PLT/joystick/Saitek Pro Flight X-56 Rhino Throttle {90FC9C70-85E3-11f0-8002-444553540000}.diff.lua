@@ -123,6 +123,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3002pnilu3002cd87vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "George AI - Show/Hide",
+		},
 		["d3008pnilu3008cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

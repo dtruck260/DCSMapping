@@ -24,47 +24,15 @@ local diff = {
 				},
 			},
 		},
-		["a3023cd20"] = {
-			["added"] = {
+	},
+	["keyDiffs"] = {
+		["d3185pnilu3185cd33vd1vpnilvu0"] = {
+			["name"] = "Cyclic Grip, CD REL Button",
+			["removed"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["hardwareDetent"] = false,
-						["hardwareDetentAB"] = 0,
-						["hardwareDetentMax"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_X",
+					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Wheel brake Left (analog)",
-		},
-		["a3024cd20"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["hardwareDetent"] = false,
-						["hardwareDetentAB"] = 0,
-						["hardwareDetentMax"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "Wheel brake Right (analog)",
 		},
 	},
 }

@@ -60,37 +60,48 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilunilcd27vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Cargo Hook Release Switch Cover - CLOSE",
-		},
 		["d3001pnilunilcd27vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Cargo Hook Release Switch Cover - OPEN",
+			["name"] = "M.P., FLT CONT Switch - NO. 2",
 		},
-		["d3003pnilu3003cd27vd1vpnilvu0"] = {
+		["d3180pnilu3180cd33vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "Cargo Hook Release Pushbutton",
+			["name"] = "Cyclic Grip, AFCS TRIM Hat - depress LEFT ←",
 		},
-		["d957pnilu958cdnilvdnilvpnilvunil"] = {
+		["d3180pnilu3180cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Cyclic Grip, AFCS TRIM Hat - depress RIGHT →",
+		},
+		["d3181pnilu3181cd33vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Cyclic Grip, AFCS TRIM Hat - depress DOWN ↓",
+		},
+		["d3181pnilu3181cd33vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Trim Control",
+			["name"] = "Cyclic Grip, AFCS TRIM Hat - depress UP ↑",
+		},
+		["d3185pnilu3185cd33vd1vpnilvu0"] = {
+			["name"] = "Cyclic Grip, CD REL Button",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
@@ -100,7 +111,7 @@ local diff = {
 		["d97pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN13",
 				},
 			},
 			["name"] = "Trimmer reset",

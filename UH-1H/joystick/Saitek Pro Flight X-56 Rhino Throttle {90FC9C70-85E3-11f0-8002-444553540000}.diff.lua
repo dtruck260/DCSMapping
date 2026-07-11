@@ -78,6 +78,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d15pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "F10 Theater map view",
+		},
 		["d1633pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

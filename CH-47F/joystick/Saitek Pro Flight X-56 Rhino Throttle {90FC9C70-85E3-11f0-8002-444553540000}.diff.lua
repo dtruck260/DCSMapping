@@ -45,52 +45,58 @@ local diff = {
 				},
 			},
 		},
-		["a3118cd19"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["hardwareDetent"] = false,
-						["hardwareDetentAB"] = 0,
-						["hardwareDetentMax"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_SLIDER2",
-				},
-			},
-			["name"] = "ENG 1 COND Lever - AXIS",
-		},
-		["a3121cd19"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["hardwareDetent"] = false,
-						["hardwareDetentAB"] = 0,
-						["hardwareDetentMax"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_SLIDER1",
-				},
-			},
-			["name"] = "ENG 2 COND Lever - AXIS",
-		},
 	},
 	["keyDiffs"] = {
-		["d957pnilu958cdnilvdnilvpnilvunil"] = {
-			["name"] = "Trim Control",
+		["d3114pnilunilcd63vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Command Engineer to Raise Ramp to Next Stage",
+		},
+		["d3114pnilunilcd63vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Command Engineer to Lower Ramp to Next Stage",
+		},
+		["d3174pnilu3174cd33vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Thrust Grip, AFCS Mode Hat - depress LEFT ← (PH)",
+		},
+		["d3174pnilu3174cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Thrust Grip, AFCS Mode Hat - depress RIGHT → (IN/RA)",
+		},
+		["d3175pnilu3175cd33vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Thrust Grip, AFCS Mode Hat - depress DOWN ↓ (TRC)",
+		},
+		["d3175pnilu3175cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Thrust Grip, AFCS Mode Hat - depress UP ↑ (ALT)",
+		},
+		["d3185pnilu3185cd33vd1vpnilvu0"] = {
+			["name"] = "Cyclic Grip, CD REL Button",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
