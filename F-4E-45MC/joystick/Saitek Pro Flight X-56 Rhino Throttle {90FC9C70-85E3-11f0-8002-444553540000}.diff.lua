@@ -50,6 +50,22 @@ local diff = {
 			},
 			["name"] = "Weapon Slew (Forward Hand Control) Y",
 		},
+		["a3096cd52"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER2",
+				},
+			},
+			["name"] = "[Variable Knob] Screen Contrast",
+		},
+		["a3097cd52"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER1",
+				},
+			},
+			["name"] = "[Variable Knob] Screen Brightness",
+		},
 	},
 	["keyDiffs"] = {
 		["d3001pnilunilcd20vd0vpnilvunil"] = {
