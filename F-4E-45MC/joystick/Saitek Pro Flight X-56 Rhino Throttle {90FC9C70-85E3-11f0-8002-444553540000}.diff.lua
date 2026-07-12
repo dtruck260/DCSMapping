@@ -152,6 +152,22 @@ local diff = {
 			},
 			["name"] = "Speed Brake - [Forward]",
 		},
+		["d3016pnilunilcd9vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "AFCS Autopilot - Disengage",
+		},
+		["d3016pnilunilcd9vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "AFCS Autopilot - Engage",
+		},
 		["d3017pnilu3017cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
