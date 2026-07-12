@@ -102,10 +102,26 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d145pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Flap Lever - Step Down",
+		},
+		["d146pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Flap Lever - Step Up",
+		},
 		["d3001pnilunilcd14vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN17",
 				},
 			},
 			["name"] = "Emergency All Jettison Button Cover - OPEN",
@@ -113,7 +129,7 @@ local diff = {
 		["d3002pnilu3002cd14vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN16",
 				},
 			},
 			["name"] = "Emergency All Jettison Button",
@@ -121,7 +137,7 @@ local diff = {
 		["d3007pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN23",
+					["key"] = "JOY_BTN28",
 				},
 			},
 			["name"] = "Speed Brake Switch - OUT",
@@ -129,26 +145,10 @@ local diff = {
 		["d3007pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN21",
+					["key"] = "JOY_BTN29",
 				},
 			},
 			["name"] = "Speed Brake Switch - IN",
-		},
-		["d3011pnilunilcd15vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Guns, Missile and Camera Switch - OFF",
-		},
-		["d3011pnilunilcd15vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Guns, Missile and Camera Switch - GUNS MSL & CAMR",
 		},
 		["d3014pnilu3014cd15vd1vpnilvu0"] = {
 			["added"] = {
@@ -158,10 +158,26 @@ local diff = {
 			},
 			["name"] = "Missile Uncage Switch",
 		},
+		["d3029pnilunilcd15vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Guns, Missile and Camera Switch - Down",
+		},
+		["d3029pnilunilcd15vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Guns, Missile and Camera Switch - Up",
+		},
 		["d430pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN24",
+					["key"] = "JOY_BTN12",
 				},
 			},
 			["name"] = "Landing Gear Lever - LG UP",
@@ -169,7 +185,7 @@ local diff = {
 		["d431pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
+					["key"] = "JOY_BTN13",
 				},
 			},
 			["name"] = "Landing Gear Lever - LG DOWN",
