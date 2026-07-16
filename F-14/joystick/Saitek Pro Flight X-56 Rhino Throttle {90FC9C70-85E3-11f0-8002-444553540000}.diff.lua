@@ -56,6 +56,14 @@ local diff = {
 			},
 			["name"] = "Zoom View",
 		},
+		["a3729cd19"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER1",
+				},
+			},
+			["name"] = "Flap Lever",
+		},
 	},
 	["keyDiffs"] = {
 		["d3016pnilunilcd18vd0vpnilvunil"] = {
@@ -77,10 +85,18 @@ local diff = {
 		["d3024pnilu3024cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN16",
 				},
 			},
 			["name"] = "Wing Sweep Auto Mode",
+		},
+		["d3027pnilu3027cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Wing Sweep Bomb Mode",
 		},
 		["d3038pnilunilcd22vd-1vpnilvunil"] = {
 			["added"] = {
@@ -165,7 +181,7 @@ local diff = {
 		["d3127pnilu3127cd57vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "PLM button",
@@ -177,22 +193,6 @@ local diff = {
 				},
 			},
 			["name"] = "Toggle Menu",
-		},
-		["d3653pnilunilcd12vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Exterior Lights Master Switch OFF",
-		},
-		["d3653pnilunilcd12vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Exterior Lights Master Switch ON",
 		},
 		["d3744pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
