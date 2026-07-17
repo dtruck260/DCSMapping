@@ -18,6 +18,22 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilunilcd15vd0.3vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Gun Selector Switch - ALL",
+		},
+		["d3001pnilunilcd15vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Gun Selector Switch - MISSILES",
+		},
 		["d3003pnilu3003cd20vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -33,6 +49,14 @@ local diff = {
 				},
 			},
 			["name"] = "Trim - Nose DOWN",
+		},
+		["d3005pnilunilcd25vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Sight Mechanical Cage Lever - TOGGLE",
 		},
 		["d3006pnilu3006cd20vd-1vpnilvu0"] = {
 			["added"] = {

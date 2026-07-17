@@ -74,6 +74,14 @@ local diff = {
 			},
 			["name"] = "Speed Brake Switch - RETRACT else CENTER",
 		},
+		["d3012pnilu3012cd15vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Emergency Jettison Button",
+		},
 		["d3012pnilunilcd10vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
