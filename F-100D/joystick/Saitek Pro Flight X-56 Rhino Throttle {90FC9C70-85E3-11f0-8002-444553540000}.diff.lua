@@ -18,13 +18,13 @@ local diff = {
 			},
 			["name"] = "Gun Selector Switch - ALL",
 		},
-		["d3001pnilunilcd15vd0vpnilvunil"] = {
+		["d3002pnilunilcd37vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Gun Selector Switch - MISSILES",
+			["name"] = "Drag Chute Handle - Cycle",
 		},
 		["d3002pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
