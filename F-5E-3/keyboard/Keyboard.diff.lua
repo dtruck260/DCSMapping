@@ -16,11 +16,27 @@ local diff = {
 				},
 			},
 		},
+		["d15pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Down",
+				},
+			},
+			["name"] = "F10 Theater map view",
+		},
 		["d193pnilu194cdnilvdnilvpnilvunil"] = {
 			["name"] = "Aircraft Pitch Down",
 			["removed"] = {
 				[1] = {
 					["key"] = "Up",
+				},
+			},
+		},
+		["d195pnilu196cdnilvdnilvpnilvunil"] = {
+			["name"] = "Aircraft Pitch Up",
+			["removed"] = {
+				[1] = {
+					["key"] = "Down",
 				},
 			},
 		},
@@ -37,6 +53,17 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "Right",
+				},
+			},
+		},
+		["d2622pnilunilcdnilvdnilvpnilvunil"] = {
+			["name"] = "Theater map dialog on/off",
+			["removed"] = {
+				[1] = {
+					["key"] = "F10",
+					["reformers"] = {
+						[1] = "RShift",
+					},
 				},
 			},
 		},
@@ -165,6 +192,17 @@ local diff = {
 					},
 				},
 			},
+		},
+		["d7pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Down",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "F1 Cockpit view",
 		},
 	},
 }
