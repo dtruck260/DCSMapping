@@ -1,5 +1,16 @@
 local diff = {
 	["keyDiffs"] = {
+		["d1886pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Left",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "Command Menu Previous Item",
+		},
 		["d1887pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
