@@ -131,38 +131,6 @@ local diff = {
 			},
 			["name"] = "George AI - Show/Hide",
 		},
-		["d3008pnilu3008cd25vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Weapons Action Switch - G/Up",
-		},
-		["d3009pnilu3009cd25vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Weapons Action Switch - A/Down",
-		},
-		["d3010pnilu3010cd25vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Weapons Action Switch - R/Left",
-		},
-		["d3011pnilu3011cd25vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Weapons Action Switch - M/Right",
-		},
 		["d3040pnilu3040cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -170,14 +138,6 @@ local diff = {
 				},
 			},
 			["name"] = "Cursor Enter - Depress",
-		},
-		["d3069pnilunilcd25vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "Weapons Trigger Guard - OPEN/CLOSE",
 		},
 	},
 }
