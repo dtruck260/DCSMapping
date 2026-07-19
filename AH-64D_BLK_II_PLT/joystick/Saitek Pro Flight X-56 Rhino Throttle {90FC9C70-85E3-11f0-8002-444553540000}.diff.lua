@@ -123,13 +123,37 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3002pnilu3002cd87vd1vpnilvu0"] = {
+		["d3008pnilu3008cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "George AI - Show/Hide",
+			["name"] = "Weapons Action Switch - G/Up",
+		},
+		["d3009pnilu3009cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Weapons Action Switch - A/Down",
+		},
+		["d3010pnilu3010cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Weapons Action Switch - R/Left",
+		},
+		["d3011pnilu3011cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Weapons Action Switch - M/Right",
 		},
 		["d3040pnilu3040cd25vd1vpnilvu0"] = {
 			["added"] = {

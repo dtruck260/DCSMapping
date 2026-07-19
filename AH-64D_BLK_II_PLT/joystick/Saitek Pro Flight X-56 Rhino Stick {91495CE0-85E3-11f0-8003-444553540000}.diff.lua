@@ -52,6 +52,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3002pnilu3002cd87vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "George AI - Show/Hide",
+		},
 		["d3003pnilu3003cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -100,10 +108,18 @@ local diff = {
 			},
 			["name"] = "George AI - Multifunctional Input (Center)",
 		},
+		["d3009pnilunilcd87vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "George AI - TADS Store Target",
+		},
 		["d97pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "Trim - RESET to default",
