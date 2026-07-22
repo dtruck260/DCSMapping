@@ -137,9 +137,6 @@ local diff = {
 		["d3028pnilu3028cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-				[2] = {
 					["key"] = "JOY_BTN25",
 				},
 			},
@@ -148,13 +145,42 @@ local diff = {
 		["d3030pnilu3030cd25vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-				[2] = {
 					["key"] = "JOY_BTN27",
 				},
 			},
 			["name"] = "Sight Select Switch - FCR/Left",
+		},
+		["d3032pnilu3032cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "FCR Mode Switch - GTM/Up",
+		},
+		["d3033pnilu3033cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "FCR Mode Switch - ATM/Down",
+		},
+		["d3034pnilu3034cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "FCR Mode Switch - TPM/Left",
+		},
+		["d3035pnilu3035cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "FCR Mode Switch - RMAP/Right",
 		},
 		["d3040pnilu3040cd25vd1vpnilvu0"] = {
 			["added"] = {
