@@ -110,37 +110,51 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3008pnilu3008cd25vd1vpnilvu0"] = {
+		["d15pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "F10 Theater map view",
+		},
+		["d3012pnilu3012cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "Weapons Action Switch - G/Up",
+			["name"] = "Symbology Select Switch - Up",
 		},
-		["d3009pnilu3009cd25vd-1vpnilvu0"] = {
+		["d3013pnilu3013cd25vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN26",
 				},
 			},
-			["name"] = "Weapons Action Switch - A/Down",
+			["name"] = "Symbology Select Switch - Down",
 		},
-		["d3010pnilu3010cd25vd-1vpnilvu0"] = {
+		["d3028pnilu3028cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN27",
+					["key"] = "JOY_BTN6",
 				},
-			},
-			["name"] = "Weapons Action Switch - R/Left",
-		},
-		["d3011pnilu3011cd25vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
+				[2] = {
 					["key"] = "JOY_BTN25",
 				},
 			},
-			["name"] = "Weapons Action Switch - M/Right",
+			["name"] = "Sight Select Switch - HMD/Up",
+		},
+		["d3030pnilu3030cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+				[2] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Sight Select Switch - FCR/Left",
 		},
 		["d3040pnilu3040cd25vd1vpnilvu0"] = {
 			["added"] = {
@@ -149,6 +163,30 @@ local diff = {
 				},
 			},
 			["name"] = "Cursor Enter - Depress",
+		},
+		["d3045pnilu3045cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "FCR Scan Switch - S (Single)/Center",
+		},
+		["d3046pnilu3046cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "FCR Scan Switch - C (Continuous)/Center",
+		},
+		["d7pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3_OFF",
+				},
+			},
+			["name"] = "F1 Cockpit view",
 		},
 	},
 }

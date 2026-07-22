@@ -100,6 +100,14 @@ local diff = {
 			},
 			["name"] = "Force Trim/Hold Mode Switch - AL/Right",
 		},
+		["d3008pnilu3008cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+			["name"] = "Weapons Action Switch - G/Up",
+		},
 		["d3008pnilu3008cd87vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -107,6 +115,14 @@ local diff = {
 				},
 			},
 			["name"] = "George AI - Multifunctional Input (Center)",
+		},
+		["d3009pnilu3009cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "Weapons Action Switch - A/Down",
 		},
 		["d3009pnilunilcd87vd1vpnilvunil"] = {
 			["added"] = {
@@ -116,6 +132,22 @@ local diff = {
 			},
 			["name"] = "George AI - TADS Store Target",
 		},
+		["d3010pnilu3010cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+			["name"] = "Weapons Action Switch - R/Left",
+		},
+		["d3011pnilu3011cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+			["name"] = "Weapons Action Switch - M/Right",
+		},
 		["d97pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -123,6 +155,38 @@ local diff = {
 				},
 			},
 			["name"] = "Trim - RESET to default",
+		},
+		["dnilp32u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+		},
+		["dnilp33u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+		},
+		["dnilp34u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+		},
+		["dnilp35u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
 		},
 	},
 }
