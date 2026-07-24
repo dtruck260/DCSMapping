@@ -103,26 +103,26 @@ local diff = {
 		["d1041pnilu1042cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "HOTAS CMS Z Axis",
 		},
-		["d3004pnilu3004cd39vd-1vpnilvu0"] = {
+		["d145pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Seat Adjustment Up",
+			["name"] = "Flaps Down",
 		},
-		["d3005pnilu3005cd39vd1vpnilvu0"] = {
+		["d146pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "Seat Adjustment Down",
+			["name"] = "Flaps Up",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon release",
@@ -132,13 +132,21 @@ local diff = {
 				},
 			},
 		},
-		["d438pnilunilcdnilvdnilvpnilvunil"] = {
+		["d430pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Toggle goggles",
+			["name"] = "Landing Gear Up",
+		},
+		["d431pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Landing Gear Down",
 		},
 		["d539pnilu543cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -187,6 +195,30 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
+		},
+		["d563pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "HOTAS Boat Switch Forward",
+		},
+		["d564pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "HOTAS Boat Switch Aft",
+		},
+		["d565pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "HOTAS Boat Switch Center",
 		},
 		["d566pnilu589cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -243,14 +275,6 @@ local diff = {
 				},
 			},
 			["name"] = "LAAP Path Hold",
-		},
-		["d83pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN33",
-				},
-			},
-			["name"] = "Eject",
 		},
 		["d957pnilu958cdnilvdnilvpnilvunil"] = {
 			["name"] = "Stick to trimmer control mode",
