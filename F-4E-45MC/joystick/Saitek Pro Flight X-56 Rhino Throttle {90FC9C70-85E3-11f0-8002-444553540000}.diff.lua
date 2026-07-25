@@ -68,6 +68,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d15pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "F10 Theater map view",
+		},
 		["d3001pnilunilcd20vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -239,6 +247,14 @@ local diff = {
 				},
 			},
 			["name"] = "Jester UI Action (short, hold)",
+		},
+		["d7pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3_OFF",
+				},
+			},
+			["name"] = "F1 Cockpit view",
 		},
 	},
 }

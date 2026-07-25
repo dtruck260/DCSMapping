@@ -58,6 +58,19 @@ local diff = {
 		["a3028cd16"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_Z",
 				},
 			},
@@ -123,6 +136,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d15pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "F10 Theater map view",
+		},
 		["d3003pnilu3003cd19vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -214,7 +235,7 @@ local diff = {
 		["d3029pnilu3029cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "UNCAGE Switch",
@@ -314,6 +335,14 @@ local diff = {
 				},
 			},
 			["name"] = "LG Handle - DN",
+		},
+		["d7pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3_OFF",
+				},
+			},
+			["name"] = "F1 Cockpit view",
 		},
 	},
 }

@@ -58,6 +58,14 @@ local diff = {
 			},
 			["name"] = "Flaps Increment Down",
 		},
+		["d15pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "F10 Theater map view",
+		},
 		["d3001pnilunilcd48vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -137,6 +145,14 @@ local diff = {
 				},
 			},
 			["name"] = "Parking Brake Off",
+		},
+		["d7pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3_OFF",
+				},
+			},
+			["name"] = "F1 Cockpit view",
 		},
 	},
 }

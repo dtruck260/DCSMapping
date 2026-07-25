@@ -3,7 +3,7 @@ local diff = {
 		["d3003pnilu3003cd87vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
+					["key"] = "JOY_BTN7",
 				},
 			},
 			["name"] = "George AI - Up",
@@ -11,7 +11,7 @@ local diff = {
 		["d3004pnilu3004cd87vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
+					["key"] = "JOY_BTN9",
 				},
 			},
 			["name"] = "George AI - Down",
@@ -19,7 +19,7 @@ local diff = {
 		["d3005pnilu3005cd87vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
+					["key"] = "JOY_BTN10",
 				},
 			},
 			["name"] = "George AI - Left",
@@ -27,7 +27,7 @@ local diff = {
 		["d3006pnilu3006cd87vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "George AI - Right",

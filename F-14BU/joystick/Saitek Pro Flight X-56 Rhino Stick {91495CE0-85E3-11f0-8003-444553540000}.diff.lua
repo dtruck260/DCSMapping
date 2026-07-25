@@ -105,6 +105,14 @@ local diff = {
 			},
 			["name"] = "Target designate down / VSL LO",
 		},
+		["d3550pnilu3550cd62vd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Toggle Menu",
+		},
 		["dnilp2019u2019cdnilvdnilvp-1vu0"] = {
 			["added"] = {
 				[1] = {
@@ -168,14 +176,6 @@ local diff = {
 				},
 			},
 			["name"] = "View Down slow",
-		},
-		["dnilp36unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "View Center",
 		},
 	},
 }

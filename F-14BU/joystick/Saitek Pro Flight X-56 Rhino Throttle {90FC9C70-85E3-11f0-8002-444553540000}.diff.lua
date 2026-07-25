@@ -66,6 +66,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d15pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "F10 Theater map view",
+		},
 		["d3016pnilunilcd18vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -149,7 +157,7 @@ local diff = {
 		["d3079pnilunilcd55vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN24",
 				},
 			},
 			["name"] = "Weapon Selector Off",
@@ -186,14 +194,6 @@ local diff = {
 			},
 			["name"] = "PLM button",
 		},
-		["d3550pnilu3550cd62vd1vpnilvu-1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Toggle Menu",
-		},
 		["d3744pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -201,6 +201,22 @@ local diff = {
 				},
 			},
 			["name"] = "Autopilot Heading Toggle On",
+		},
+		["d3934pnilu3934cd62vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Jester Context Action (short, hold, double click)",
+		},
+		["d7pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3_OFF",
+				},
+			},
+			["name"] = "F1 Cockpit view",
 		},
 		["dnilp3020u3020cd18vdnilvp-1vu0"] = {
 			["added"] = {

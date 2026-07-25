@@ -100,14 +100,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d1041pnilu1042cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "HOTAS CMS Z Axis",
-		},
 		["d145pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -123,6 +115,14 @@ local diff = {
 				},
 			},
 			["name"] = "Flaps Up",
+		},
+		["d15pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "F10 Theater map view",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon release",
@@ -275,6 +275,14 @@ local diff = {
 				},
 			},
 			["name"] = "LAAP Path Hold",
+		},
+		["d7pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3_OFF",
+				},
+			},
+			["name"] = "F1 Cockpit view",
 		},
 		["d957pnilu958cdnilvdnilvpnilvunil"] = {
 			["name"] = "Stick to trimmer control mode",
