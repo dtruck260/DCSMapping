@@ -221,7 +221,7 @@ local diff = {
 		["dnilp3020u3020cd18vdnilvp-1vu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN21",
+					["key"] = "JOY_BTN29",
 				},
 			},
 			["name"] = "Speed brake retract",
@@ -229,7 +229,7 @@ local diff = {
 		["dnilp3020u3020cd18vdnilvp1vu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN23",
+					["key"] = "JOY_BTN28",
 				},
 			},
 			["name"] = "Speed brake extend",
