@@ -148,6 +148,14 @@ local diff = {
 			},
 			["name"] = "FCR Mode Switch - RMAP/Right",
 		},
+		["d3040pnilu3040cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "Cursor Enter - Depress",
+		},
 		["d3045pnilu3045cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
