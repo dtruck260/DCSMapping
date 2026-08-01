@@ -37,9 +37,43 @@ local diff = {
 				},
 			},
 		},
+		["a3028cd16"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "MAN RNG Knob",
+		},
 		["a3032cd16"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.69,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RZ",
 				},
 			},
@@ -395,22 +429,6 @@ local diff = {
 				},
 			},
 			["name"] = "CRS Set / Brightness Control Knob - CW/Increase",
-		},
-		["dnilp3040unilcd16vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN54",
-				},
-			},
-			["name"] = "MAN RNG Knob - CW",
-		},
-		["dnilp3041unilcd16vdnilvp-1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN52",
-				},
-			},
-			["name"] = "MAN RNG Knob - CCW",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
