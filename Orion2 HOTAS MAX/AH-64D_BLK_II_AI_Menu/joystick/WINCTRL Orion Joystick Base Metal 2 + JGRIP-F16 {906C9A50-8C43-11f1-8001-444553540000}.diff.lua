@@ -5,6 +5,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN22",
 				},
+				[2] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
 			},
 			["name"] = "George AI - Up",
 		},
@@ -12,6 +15,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN24",
+				},
+				[2] = {
+					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
 			["name"] = "George AI - Down",
@@ -21,6 +27,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN25",
 				},
+				[2] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
 			},
 			["name"] = "George AI - Left",
 		},
@@ -28,6 +37,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN23",
+				},
+				[2] = {
+					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
 			["name"] = "George AI - Right",

@@ -116,6 +116,22 @@ local diff = {
 			},
 			["name"] = "CRS Set / Brightness Control Knob - Depress",
 		},
+		["d3010pnilunilcd7vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN76",
+				},
+			},
+			["name"] = "ANTI-SKID Switch - ANTI-SKID",
+		},
+		["d3014pnilu3014cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN75",
+				},
+			},
+			["name"] = "ANTI-SKID Switch - PARKING BRAKE",
+		},
 		["d3014pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -283,6 +299,22 @@ local diff = {
 				},
 			},
 			["name"] = "Throttle - OFF(hold)<>IDLE",
+		},
+		["d430pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN73",
+				},
+			},
+			["name"] = "LG Handle - UP",
+		},
+		["d431pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN74",
+				},
+			},
+			["name"] = "LG Handle - DN",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

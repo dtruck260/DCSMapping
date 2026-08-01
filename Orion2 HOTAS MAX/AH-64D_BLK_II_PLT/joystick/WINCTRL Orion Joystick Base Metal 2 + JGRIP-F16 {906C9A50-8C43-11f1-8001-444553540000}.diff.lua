@@ -50,6 +50,9 @@ local diff = {
 				[2] = {
 					["key"] = "JOY_BTN21",
 				},
+				[3] = {
+					["key"] = "JOY_BTN19",
+				},
 			},
 			["name"] = "George AI - Show/Hide",
 		},
@@ -100,6 +103,14 @@ local diff = {
 				},
 			},
 			["name"] = "Weapons Action Switch - G/Up",
+		},
+		["d3008pnilu3008cd87vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "George AI - Multifunctional Input (Center)",
 		},
 		["d3009pnilu3009cd25vd-1vpnilvu0"] = {
 			["added"] = {

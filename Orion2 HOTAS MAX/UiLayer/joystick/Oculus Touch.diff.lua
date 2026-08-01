@@ -1,0 +1,35 @@
+local diff = {
+	["keyDiffs"] = {
+		["d216pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+				[2] = {
+					["key"] = "JOY_BTN41",
+				},
+			},
+			["name"] = "recenter VR Headset",
+		},
+		["d2604pnilu2604cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "toggle VR Zoom",
+		},
+		["d51pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+				[2] = {
+					["key"] = "JOY_BTN43",
+				},
+			},
+			["name"] = "End mission",
+		},
+	},
+}
+return diff
