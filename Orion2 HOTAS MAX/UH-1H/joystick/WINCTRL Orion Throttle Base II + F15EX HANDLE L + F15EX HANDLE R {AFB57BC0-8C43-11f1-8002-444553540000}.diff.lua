@@ -25,6 +25,11 @@ local diff = {
 			},
 		},
 		["a2087cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
 			["name"] = "Flight Control Collective",
 			["removed"] = {
 				[1] = {
@@ -32,13 +37,37 @@ local diff = {
 				},
 			},
 		},
+		["a3026cd3"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER2",
+				},
+			},
+			["name"] = "Throttle",
+		},
 	},
 	["keyDiffs"] = {
-		["d3185pnilu3185cd33vd1vpnilvu0"] = {
-			["name"] = "Cyclic Grip, CD REL Button",
+		["d3004pnilu3004cd41vd1vpnilvu0"] = {
+			["name"] = "Pilot Trimmer",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
+				},
+			},
+		},
+		["d3009pnilu3009cd21vd1vpnilvu0"] = {
+			["name"] = "Pilot's radio trigger RADIO (call radio menu)",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+		},
+		["d84pnilu84cdnilvd1vpnilvu0"] = {
+			["name"] = "Pilot weapon release/Machinegun fire",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
 				},
 			},
 		},
@@ -103,6 +132,14 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+		},
+		["dnilp36unilcdnilvdnilvpnilvunil"] = {
+			["name"] = "Center View",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
 				},
 			},
 		},

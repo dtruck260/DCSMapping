@@ -1,21 +1,5 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2001cdnil"] = {
-			["name"] = "Flight Control Cyclic Pitch",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-		},
-		["a2002cdnil"] = {
-			["name"] = "Flight Control Cyclic Roll",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-		},
 		["a2003cdnil"] = {
 			["name"] = "Flight Control Yaw (pedals)",
 			["removed"] = {
@@ -34,13 +18,58 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3180pnilu3180cd33vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "Cyclic Grip, AFCS TRIM Hat - depress LEFT ←",
+		},
+		["d3180pnilu3180cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "Cyclic Grip, AFCS TRIM Hat - depress RIGHT →",
+		},
+		["d3181pnilu3181cd33vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "Cyclic Grip, AFCS TRIM Hat - depress DOWN ↓",
+		},
+		["d3181pnilu3181cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "Cyclic Grip, AFCS TRIM Hat - depress UP ↑",
+		},
 		["d3185pnilu3185cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37",
+				},
+			},
 			["name"] = "Cyclic Grip, CD REL Button",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
 				},
 			},
+		},
+		["d97pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "Trimmer reset",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
