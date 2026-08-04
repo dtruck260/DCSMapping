@@ -63,7 +63,7 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.69,
+							[1] = 0.11,
 						},
 						["deadzone"] = 0,
 						["hardwareDetent"] = false,
