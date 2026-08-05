@@ -18,6 +18,22 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilu3001cd27vd0.5vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Flight Stick Trigger (Gun, Missiles) - Half Action (2-stage trigger)",
+		},
+		["d3001pnilu3001cd27vd1vpnilvu0.5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Flight Stick Trigger (Gun, Missiles) - Full Action (2-stage trigger)",
+		},
 		["d3002pnilu3002cd27vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -49,22 +65,6 @@ local diff = {
 				},
 			},
 			["name"] = "Emergency Quick Release Lever",
-		},
-		["d3145pnilu3145cd27vd0.5vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Flight Stick Trigger (Gun, Missiles) - Half Action (button)",
-		},
-		["d3145pnilu3145cd27vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Flight Stick Trigger (Gun, Missiles) - Full Action (button)",
 		},
 		["dnilp2019u2019cdnilvdnilvp-1vu0"] = {
 			["added"] = {
