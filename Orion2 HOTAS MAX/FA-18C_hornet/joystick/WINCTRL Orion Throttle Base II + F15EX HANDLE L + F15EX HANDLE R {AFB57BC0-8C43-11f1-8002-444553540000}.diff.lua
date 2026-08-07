@@ -48,14 +48,6 @@ local diff = {
 			},
 			["name"] = "Thrust Right",
 		},
-		["a3026cd13"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Radar Elevation Control",
-		},
 		["a3043cd13"] = {
 			["added"] = {
 				[1] = {
@@ -67,7 +59,7 @@ local diff = {
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
-						["invert"] = false,
+						["invert"] = true,
 						["saturationX"] = 0.61,
 						["saturationY"] = 1,
 						["slider"] = false,
@@ -139,6 +131,14 @@ local diff = {
 				},
 			},
 			["name"] = "Emergency Jettison Button",
+		},
+		["d3004pnilu3004cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN92",
+				},
+			},
+			["name"] = "FCS BIT Switch",
 		},
 		["d3004pnilu3004cd35vd1vpnilvu0"] = {
 			["added"] = {
@@ -268,6 +268,22 @@ local diff = {
 			},
 			["name"] = "Throttle Designator Controller - DEPRESS",
 		},
+		["d3024pnilu3024cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Radar Elevation Control - Up",
+		},
+		["d3025pnilu3025cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "Radar Elevation Control - Down",
+		},
 		["d3027pnilu3027cd13vd0.2vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -345,6 +361,14 @@ local diff = {
 				},
 			},
 			["name"] = "ATC Engage/Disengage Switch",
+		},
+		["d3042pnilunilcd13vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN57",
+				},
+			},
+			["name"] = "Exterior Lights Switch - ON/OFF",
 		},
 		["d311pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
