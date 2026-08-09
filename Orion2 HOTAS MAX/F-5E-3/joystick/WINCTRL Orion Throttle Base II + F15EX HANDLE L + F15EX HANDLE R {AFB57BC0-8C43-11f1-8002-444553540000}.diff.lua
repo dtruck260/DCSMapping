@@ -79,6 +79,14 @@ local diff = {
 			},
 			["name"] = "Emergency All Jettison Button",
 		},
+		["d3002pnilunilcd44vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN92",
+				},
+			},
+			["name"] = "Toggle helmet visor",
+		},
 		["d3005pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

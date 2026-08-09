@@ -90,7 +90,7 @@ local diff = {
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
-						["invert"] = false,
+						["invert"] = true,
 						["saturationX"] = 1,
 						["saturationY"] = 0.36,
 						["slider"] = false,
@@ -442,6 +442,22 @@ local diff = {
 				},
 			},
 			["name"] = "CRS Set / Brightness Control Knob - CW/Increase",
+		},
+		["dnilp3040unilcd16vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "MAN RNG Knob - CW",
+		},
+		["dnilp3041unilcd16vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "MAN RNG Knob - CCW",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
