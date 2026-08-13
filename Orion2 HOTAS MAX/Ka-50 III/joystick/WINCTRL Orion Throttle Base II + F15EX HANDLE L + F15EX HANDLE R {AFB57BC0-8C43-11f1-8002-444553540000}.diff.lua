@@ -24,7 +24,28 @@ local diff = {
 				},
 			},
 		},
+		["a2033cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "Absolute SHKVAL Horizontal Slew",
+		},
+		["a2034cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Absolute SHKVAL Vertical Slew",
+		},
 		["a2087cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
 			["name"] = "Flight Control Collective",
 			["removed"] = {
 				[1] = {
@@ -34,6 +55,62 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d103pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Shkval Narrow View 23x",
+		},
+		["d104pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Shkval Wide View 7x",
+		},
+		["d178pnilu170cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN96",
+				},
+			},
+			["name"] = "External stores jettison",
+		},
+		["d3001pnilunilcd12vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN94",
+				},
+			},
+			["name"] = "Master Arm - DISARM",
+		},
+		["d3001pnilunilcd12vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN93",
+				},
+			},
+			["name"] = "Master Arm - ARM",
+		},
+		["d3012pnilunilcd34vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN73",
+				},
+			},
+			["name"] = "Gear up",
+		},
+		["d3013pnilunilcd34vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN74",
+				},
+			},
+			["name"] = "Gear down",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Release weapons",
 			["removed"] = {
@@ -42,7 +119,28 @@ local diff = {
 				},
 			},
 		},
+		["d412pnilu414cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "TV Target frame Increase size",
+		},
+		["d413pnilu414cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "TV Target frame Decrease size",
+		},
 		["d509pnilu510cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
 			["name"] = "Lock target",
 			["removed"] = {
 				[1] = {
@@ -60,6 +158,38 @@ local diff = {
 					},
 				},
 			},
+		},
+		["d824pnilu381cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Weapon selection inward stations",
+		},
+		["d825pnilu381cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Weapon selection outward stations",
+		},
+		["d826pnilu382cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Weapon selection all stations",
+		},
+		["d827pnilu382cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Weapon selection A-A mode",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Gun fire",

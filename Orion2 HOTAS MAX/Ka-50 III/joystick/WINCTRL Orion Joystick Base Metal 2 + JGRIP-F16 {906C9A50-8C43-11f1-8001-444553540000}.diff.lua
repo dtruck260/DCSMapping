@@ -1,21 +1,5 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2001cdnil"] = {
-			["name"] = "Flight Control Cyclic Pitch",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-		},
-		["a2002cdnil"] = {
-			["name"] = "Flight Control Cyclic Roll",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-		},
 		["a2003cdnil"] = {
 			["name"] = "Flight Control Yaw (pedals)",
 			["removed"] = {
@@ -35,6 +19,11 @@ local diff = {
 	},
 	["keyDiffs"] = {
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
 			["name"] = "Release weapons",
 			["removed"] = {
 				[1] = {
@@ -51,6 +40,11 @@ local diff = {
 			},
 		},
 		["d537pnilu385cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
 			["name"] = "Hover On/Off",
 			["removed"] = {
 				[1] = {
@@ -62,6 +56,11 @@ local diff = {
 			},
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
 			["name"] = "Gun fire",
 			["removed"] = {
 				[1] = {
@@ -70,12 +69,25 @@ local diff = {
 			},
 		},
 		["d957pnilu958cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37",
+				},
+			},
 			["name"] = "Trim Control",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
 				},
 			},
+		},
+		["d97pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "Trimmer reset",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -148,6 +160,14 @@ local diff = {
 					["key"] = "JOY_BTN5",
 				},
 			},
+		},
+		["dnilp439u440cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Uncage SHKVAL, designate target",
 		},
 		["dnilp88u235cdnilvdnilvpnilvunil"] = {
 			["name"] = "KU-31 Shkval slew left",
