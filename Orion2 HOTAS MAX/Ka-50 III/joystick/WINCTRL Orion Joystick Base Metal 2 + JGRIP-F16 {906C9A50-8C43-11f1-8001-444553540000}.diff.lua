@@ -18,6 +18,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d109pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Helmet-mounted system - ON/OFF",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -54,6 +62,14 @@ local diff = {
 					},
 				},
 			},
+		},
+		["d74p74u75cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Wheel brake (press and hold)",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["added"] = {

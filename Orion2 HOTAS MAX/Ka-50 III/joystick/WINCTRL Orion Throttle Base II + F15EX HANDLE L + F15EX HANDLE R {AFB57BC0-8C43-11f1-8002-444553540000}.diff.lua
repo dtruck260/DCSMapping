@@ -43,6 +43,19 @@ local diff = {
 		["a2087cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 0.65,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RY",
 				},
 			},
@@ -70,6 +83,14 @@ local diff = {
 				},
 			},
 			["name"] = "Shkval Wide View 7x",
+		},
+		["d113pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Gun Select",
 		},
 		["d178pnilu170cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -119,6 +140,14 @@ local diff = {
 				},
 			},
 		},
+		["d378pnilu799cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "Button Targeting mode reset",
+		},
 		["d412pnilu414cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -162,7 +191,7 @@ local diff = {
 		["d824pnilu381cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN15",
+					["key"] = "JOY_BTN14",
 				},
 			},
 			["name"] = "Weapon selection inward stations",
@@ -170,7 +199,7 @@ local diff = {
 		["d825pnilu381cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN12",
 				},
 			},
 			["name"] = "Weapon selection outward stations",
@@ -178,7 +207,7 @@ local diff = {
 		["d826pnilu382cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN15",
 				},
 			},
 			["name"] = "Weapon selection all stations",
@@ -186,7 +215,7 @@ local diff = {
 		["d827pnilu382cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN13",
 				},
 			},
 			["name"] = "Weapon selection A-A mode",
