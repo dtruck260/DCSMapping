@@ -21,6 +21,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN56",
 				},
+				[2] = {
+					["key"] = "JOY_BTN11",
+				},
 			},
 			["name"] = "toggle VR Spyglass Zoom",
 		},

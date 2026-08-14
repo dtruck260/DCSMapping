@@ -63,6 +63,14 @@ local diff = {
 				},
 			},
 		},
+		["d594pnilu305cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+				},
+			},
+			["name"] = "Autopilot Director control",
+		},
 		["d74p74u75cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -88,6 +96,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN37",
+				},
+				[2] = {
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "Trim Control",
