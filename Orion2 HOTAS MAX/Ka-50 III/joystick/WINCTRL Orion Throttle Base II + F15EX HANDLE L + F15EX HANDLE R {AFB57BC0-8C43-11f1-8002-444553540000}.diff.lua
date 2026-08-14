@@ -116,6 +116,14 @@ local diff = {
 			},
 			["name"] = "Master Arm - ARM",
 		},
+		["d3004pnilu3004cd28vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Engage Descent/Route 3-pos Switch : ROUTE<>CENTER",
+		},
 		["d3012pnilunilcd34vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -163,6 +171,14 @@ local diff = {
 				},
 			},
 			["name"] = "TV Target frame Decrease size",
+		},
+		["d507pnilu508cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Engage Descent Mode | DESCENT<>CENTER ",
 		},
 		["d509pnilu510cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -227,6 +243,14 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
+		},
+		["d856pnilu857cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN55",
+				},
+			},
+			["name"] = "Collective Clutch Lock/Release Button",
 		},
 		["d957pnilu958cdnilvdnilvpnilvunil"] = {
 			["name"] = "Trim Control",
