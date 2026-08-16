@@ -27,6 +27,19 @@ local diff = {
 		["a2033cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.18,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 0.49,
+						["slider"] = false,
+					},
 					["key"] = "JOY_X",
 				},
 			},
@@ -35,6 +48,19 @@ local diff = {
 		["a2034cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.18,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 0.5,
+						["slider"] = false,
+					},
 					["key"] = "JOY_Y",
 				},
 			},
@@ -91,6 +117,14 @@ local diff = {
 				},
 			},
 			["name"] = "Gun Select",
+		},
+		["d1731pnilu1731cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "SPU-9 PTT (VOIP)",
 		},
 		["d178pnilu170cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -178,7 +212,7 @@ local diff = {
 					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "Engage Descent Mode | DESCENT<>CENTER ",
+			["name"] = "Engage Descent Mode",
 		},
 		["d509pnilu510cdnilvdnilvpnilvunil"] = {
 			["added"] = {
