@@ -16,17 +16,6 @@ local diff = {
 				},
 			},
 		},
-		["a2101cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-				[2] = {
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "Wheel Brake",
-		},
 	},
 }
 return diff
