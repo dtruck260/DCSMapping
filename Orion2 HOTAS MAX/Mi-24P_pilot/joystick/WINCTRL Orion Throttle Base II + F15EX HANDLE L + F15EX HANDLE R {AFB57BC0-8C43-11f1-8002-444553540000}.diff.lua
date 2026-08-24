@@ -24,22 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a2005cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_SLIDER2",
-				},
-			},
-			["name"] = "Throttle Lever Left",
-		},
-		["a2006cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_SLIDER1",
-				},
-			},
-			["name"] = "Throttle Lever Right",
-		},
 		["a2087cdnil"] = {
 			["added"] = {
 				[1] = {
@@ -55,6 +39,62 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3014pnilu3014cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Launch Countermeasures",
+		},
+		["d3022pnilunilcd11vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN91",
+				},
+			},
+			["name"] = "Door, Cargo Cabin, Left - OPEN/CLOSE",
+		},
+		["d3023pnilunilcd11vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN89",
+				},
+			},
+			["name"] = "Door, Cargo Cabin, Right - OPEN/CLOSE",
+		},
+		["d3042pnilunilcd11vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN76",
+				},
+			},
+			["name"] = "Wheel Parking Brake - OFF*",
+		},
+		["d3042pnilunilcd11vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN75",
+				},
+			},
+			["name"] = "Wheel Parking Brake - ON*",
+		},
+		["d3081pnilunilcd6vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN93",
+				},
+			},
+			["name"] = "Main Fire Control Switch - ON",
+		},
+		["d3082pnilunilcd6vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN94",
+				},
+			},
+			["name"] = "Main Fire Control Switch - OFF",
+		},
 		["d430pnilunilcdnilvd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -70,6 +110,14 @@ local diff = {
 				},
 			},
 			["name"] = "Gear Lever - DOWN",
+		},
+		["d438pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Night Vision Goggles",
 		},
 		["d856pnilu857cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -111,6 +159,22 @@ local diff = {
 				},
 			},
 		},
+		["dnilp3031unilcd10vdnilvp-0.2vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN97",
+				},
+			},
+			["name"] = "RMI-2, Course Rotary Knob - CCW",
+		},
+		["dnilp3031unilcd10vdnilvp0.2vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN98",
+				},
+			},
+			["name"] = "RMI-2, Course Rotary Knob - CW",
+		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
 			["removed"] = {
@@ -150,6 +214,22 @@ local diff = {
 					["key"] = "JOY_BTN5",
 				},
 			},
+		},
+		["dnilp840unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Night Vision Goggles Gain - INC",
+		},
+		["dnilp841unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Night Vision Goggles Gain - DEC",
 		},
 	},
 }

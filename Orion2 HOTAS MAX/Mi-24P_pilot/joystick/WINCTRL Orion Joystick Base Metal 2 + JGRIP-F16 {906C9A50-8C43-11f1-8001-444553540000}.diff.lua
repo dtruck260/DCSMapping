@@ -26,6 +26,33 @@ local diff = {
 			},
 			["name"] = "AI Helper Interface - SHOW/HIDE",
 		},
+		["d3007pnilunilcd73vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "R-60 Launcher Selector - PREV",
+		},
+		["d3007pnilunilcd73vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "R-60 Launcher Selector - NEXT",
+		},
+		["d3014pnilu3014cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+				[2] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Launch Countermeasures",
+		},
 		["d3037pnilu3037cd10vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
