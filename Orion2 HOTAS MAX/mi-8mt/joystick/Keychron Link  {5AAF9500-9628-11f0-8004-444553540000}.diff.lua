@@ -25,24 +25,6 @@ local diff = {
 			},
 		},
 		["a2087cdnil"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["hardwareDetent"] = false,
-						["hardwareDetentAB"] = 0,
-						["hardwareDetentMax"] = 0,
-						["invert"] = false,
-						["saturationX"] = 0.65,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RY",
-				},
-			},
 			["name"] = "Flight Control Collective",
 			["removed"] = {
 				[1] = {
@@ -50,26 +32,10 @@ local diff = {
 				},
 			},
 		},
-		["a3026cd3"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_SLIDER2",
-				},
-			},
-			["name"] = "Throttle",
-		},
 	},
 	["keyDiffs"] = {
-		["d3004pnilu3004cd41vd1vpnilvu0"] = {
-			["name"] = "Pilot Trimmer",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-		},
-		["d3009pnilu3009cd21vd1vpnilvu0"] = {
-			["name"] = "Pilot's radio trigger RADIO (call radio menu)",
+		["d3025pnilu3025cd36vd1vpnilvu0"] = {
+			["name"] = "Radio trigger - 2nd STAGE (RADIO)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
@@ -77,7 +43,7 @@ local diff = {
 			},
 		},
 		["d84pnilu84cdnilvd1vpnilvu0"] = {
-			["name"] = "Pilot weapon release/Machinegun fire",
+			["name"] = "Release weapons",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
@@ -149,7 +115,7 @@ local diff = {
 			},
 		},
 		["dnilp36unilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Center View",
+			["name"] = "View Center",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN5",

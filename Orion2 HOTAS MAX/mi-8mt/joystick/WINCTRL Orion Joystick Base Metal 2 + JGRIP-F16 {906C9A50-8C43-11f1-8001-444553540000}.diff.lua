@@ -1,21 +1,5 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2001cdnil"] = {
-			["name"] = "Flight Control Cyclic Pitch",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-		},
-		["a2002cdnil"] = {
-			["name"] = "Flight Control Cyclic Roll",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-		},
 		["a2003cdnil"] = {
 			["name"] = "Flight Control Yaw (pedals)",
 			["removed"] = {
@@ -25,24 +9,6 @@ local diff = {
 			},
 		},
 		["a2087cdnil"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["hardwareDetent"] = false,
-						["hardwareDetentAB"] = 0,
-						["hardwareDetentMax"] = 0,
-						["invert"] = false,
-						["saturationX"] = 0.65,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RY",
-				},
-			},
 			["name"] = "Flight Control Collective",
 			["removed"] = {
 				[1] = {
@@ -50,26 +16,18 @@ local diff = {
 				},
 			},
 		},
-		["a3026cd3"] = {
+		["a2101cdnil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_SLIDER2",
+					["key"] = "JOY_SLIDER1",
 				},
 			},
-			["name"] = "Throttle",
+			["name"] = "Wheel brake",
 		},
 	},
 	["keyDiffs"] = {
-		["d3004pnilu3004cd41vd1vpnilvu0"] = {
-			["name"] = "Pilot Trimmer",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-		},
-		["d3009pnilu3009cd21vd1vpnilvu0"] = {
-			["name"] = "Pilot's radio trigger RADIO (call radio menu)",
+		["d3025pnilu3025cd36vd1vpnilvu0"] = {
+			["name"] = "Radio trigger - 2nd STAGE (RADIO)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
@@ -77,12 +35,33 @@ local diff = {
 			},
 		},
 		["d84pnilu84cdnilvd1vpnilvu0"] = {
-			["name"] = "Pilot weapon release/Machinegun fire",
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Release weapons",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 				},
 			},
+		},
+		["d957pnilu958cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37",
+				},
+			},
+			["name"] = "Trim Button - press",
+		},
+		["d97pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "Trim - RESET to default",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -149,7 +128,7 @@ local diff = {
 			},
 		},
 		["dnilp36unilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Center View",
+			["name"] = "View Center",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN5",

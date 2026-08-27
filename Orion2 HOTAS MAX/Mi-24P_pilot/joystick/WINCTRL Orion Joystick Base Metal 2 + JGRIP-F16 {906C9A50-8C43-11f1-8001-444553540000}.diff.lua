@@ -53,6 +53,14 @@ local diff = {
 			},
 			["name"] = "Launch Countermeasures",
 		},
+		["d3015pnilu3015cd30vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "AI Wheel - Center",
+		},
 		["d3037pnilu3037cd10vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
