@@ -1,75 +1,62 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2003cdnil"] = {
-			["name"] = "Flight Control Yaw (pedals)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-		},
-		["a2087cdnil"] = {
-			["name"] = "Flight Control Collective",
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Z",
 				},
 			},
 		},
-		["a2101cdnil"] = {
-			["added"] = {
+		["a8036cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_SLIDER1",
+					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "Wheel brake",
 		},
 	},
 	["keyDiffs"] = {
-		["d3013pnilu3013cd48vd1vpnilvu0"] = {
+		["d3544pnilu3544cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN8",
 				},
 			},
-			["name"] = "UV-26 Launch Button",
+			["name"] = "Autopilot disengage lever",
 		},
-		["d3025pnilu3025cd36vd1vpnilvu0"] = {
-			["name"] = "Radio trigger - 2nd STAGE (RADIO)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-		},
-		["d84pnilu84cdnilvd1vpnilvu0"] = {
+		["d3548pnilu3548cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN20",
 				},
 			},
-			["name"] = "Release weapons",
-			["removed"] = {
+			["name"] = "Bombs, rockets, missiles and sight recorder button",
+		},
+		["d3550pnilu3550cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Gun button",
+		},
+		["d8362pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Gun firing safety - OUT",
+		},
+		["d8363pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-		},
-		["d957pnilu958cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN37",
-				},
-			},
-			["name"] = "Trim Button - press",
-		},
-		["d97pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN39",
-				},
-			},
-			["name"] = "Trim - RESET to default",
+			["name"] = "Gun firing safety - IN",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -135,13 +122,37 @@ local diff = {
 				},
 			},
 		},
-		["dnilp36unilcdnilvdnilvpnilvunil"] = {
-			["name"] = "View Center",
-			["removed"] = {
+		["dnilp93u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
+			["name"] = "Trim Hat - ROLL LEFT",
+		},
+		["dnilp94u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+			["name"] = "Trim Hat - ROLL RIGHT",
+		},
+		["dnilp95u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "Trim Hat - NOSE UP",
+		},
+		["dnilp96u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+			["name"] = "Trim Hat - NOSE DOWN",
 		},
 	},
 }

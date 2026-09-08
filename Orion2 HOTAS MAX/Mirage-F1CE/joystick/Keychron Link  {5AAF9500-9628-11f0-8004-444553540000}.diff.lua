@@ -1,76 +1,39 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2003cdnil"] = {
-			["name"] = "Flight Control Yaw (pedals)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-		},
-		["a2087cdnil"] = {
-			["name"] = "Flight Control Collective",
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Z",
 				},
 			},
 		},
-		["a2101cdnil"] = {
-			["added"] = {
+		["a8034cdnil"] = {
+			["name"] = "Pitch",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_SLIDER1",
+					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "Wheel brake",
+		},
+		["a8035cdnil"] = {
+			["name"] = "Roll",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+		},
+		["a8036cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
 		},
 	},
 	["keyDiffs"] = {
-		["d3013pnilu3013cd48vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "UV-26 Launch Button",
-		},
-		["d3025pnilu3025cd36vd1vpnilvu0"] = {
-			["name"] = "Radio trigger - 2nd STAGE (RADIO)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-		},
-		["d84pnilu84cdnilvd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Release weapons",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-		},
-		["d957pnilu958cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN37",
-				},
-			},
-			["name"] = "Trim Button - press",
-		},
-		["d97pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN39",
-				},
-			},
-			["name"] = "Trim - RESET to default",
-		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
@@ -132,14 +95,6 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_D",
-				},
-			},
-		},
-		["dnilp36unilcdnilvdnilvpnilvunil"] = {
-			["name"] = "View Center",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
 				},
 			},
 		},
