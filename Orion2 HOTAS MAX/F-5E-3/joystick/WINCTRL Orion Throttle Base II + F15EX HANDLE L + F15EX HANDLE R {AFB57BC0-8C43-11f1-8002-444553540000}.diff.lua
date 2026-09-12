@@ -84,6 +84,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN92",
 				},
+				[2] = {
+					["key"] = "JOY_BTN85",
+				},
 			},
 			["name"] = "Toggle helmet visor",
 		},
@@ -102,6 +105,14 @@ local diff = {
 				},
 			},
 			["name"] = "Flap Switch - AUTO",
+		},
+		["d3006pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN78",
+				},
+			},
+			["name"] = "Flap Switch - UP",
 		},
 		["d3007pnilu3007cd13vd1vpnilvu0"] = {
 			["added"] = {

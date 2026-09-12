@@ -34,6 +34,14 @@ local diff = {
 			},
 			["name"] = "Nosewheel Steering Button",
 		},
+		["d3007pnilu3007cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Flare-Chaff Button",
+		},
 		["d3016pnilu3016cd15vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
