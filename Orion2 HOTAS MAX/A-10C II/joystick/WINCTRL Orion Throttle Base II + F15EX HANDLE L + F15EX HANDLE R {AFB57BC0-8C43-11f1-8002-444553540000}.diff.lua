@@ -35,6 +35,19 @@ local diff = {
 		["a2005cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 0.61,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RY",
 				},
 			},
@@ -43,6 +56,19 @@ local diff = {
 		["a2006cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 0.61,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RX",
 				},
 			},
@@ -61,7 +87,7 @@ local diff = {
 						["hardwareDetentMax"] = 0,
 						["invert"] = false,
 						["saturationX"] = 1,
-						["saturationY"] = 0.36,
+						["saturationY"] = 0.49,
 						["slider"] = false,
 					},
 					["key"] = "JOY_X",
@@ -82,7 +108,7 @@ local diff = {
 						["hardwareDetentMax"] = 0,
 						["invert"] = false,
 						["saturationX"] = 1,
-						["saturationY"] = 0.36,
+						["saturationY"] = 0.49,
 						["slider"] = false,
 					},
 					["key"] = "JOY_Y",
