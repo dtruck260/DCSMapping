@@ -7,14 +7,6 @@ local diff = {
 				},
 			},
 			["name"] = "Kneeboard ON/OFF",
-			["removed"] = {
-				[1] = {
-					["key"] = "K",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
 		},
 		["d193pnilu194cdnilvdnilvpnilvunil"] = {
 			["name"] = "Aircraft Pitch Down",

@@ -7,14 +7,6 @@ local diff = {
 				},
 			},
 			["name"] = "Kneeboard ON/OFF",
-			["removed"] = {
-				[1] = {
-					["key"] = "K",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
 		},
 		["d197pnilu198cdnilvdnilvpnilvunil"] = {
 			["name"] = "Aircraft Bank Left",
@@ -45,6 +37,14 @@ local diff = {
 				},
 			},
 		},
+		["d3002pnilu3002cd90vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Down",
+				},
+			},
+			["name"] = "Bombing Table - [Toggle]",
+		},
 		["d3002pnilunilcd92vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -63,6 +63,14 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "Up",
+				},
+			},
+		},
+		["dnilp195unilcdnilvdnilvpnilvunil"] = {
+			["name"] = "Aircraft Pitch Up",
+			["removed"] = {
+				[1] = {
+					["key"] = "Down",
 				},
 			},
 		},

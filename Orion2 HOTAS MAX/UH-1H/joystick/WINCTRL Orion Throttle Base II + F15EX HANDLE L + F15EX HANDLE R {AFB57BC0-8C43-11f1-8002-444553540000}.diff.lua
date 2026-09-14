@@ -76,6 +76,22 @@ local diff = {
 				},
 			},
 		},
+		["d3035pnilunilcd9vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN91",
+				},
+			},
+			["name"] = "Open/Close Right Gunner Door",
+		},
+		["d3036pnilunilcd9vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN89",
+				},
+			},
+			["name"] = "Open/Close Left Gunner Door",
+		},
 		["d84pnilu84cdnilvd1vpnilvu0"] = {
 			["name"] = "Pilot weapon release/Machinegun fire",
 			["removed"] = {

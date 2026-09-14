@@ -45,7 +45,7 @@ local diff = {
 		["d3003pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN76",
+					["key"] = "JOY_BTN74",
 				},
 			},
 			["name"] = "Landing Gear Lever - DOWN",
@@ -53,10 +53,18 @@ local diff = {
 		["d3003pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN75",
+					["key"] = "JOY_BTN73",
 				},
 			},
 			["name"] = "Landing Gear Lever - UP",
+		},
+		["d3005pnilunilcd25vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "Sight Mechanical Cage Lever - TOGGLE",
 		},
 		["d3008pnilu3008cd9vd-1vpnilvu0"] = {
 			["added"] = {

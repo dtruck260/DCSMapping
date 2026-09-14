@@ -3,6 +3,19 @@ local diff = {
 		["a2001cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0.04,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_Y",
 				},
 			},
@@ -11,6 +24,29 @@ local diff = {
 		["a2002cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+							[2] = 0.1,
+							[3] = 0.2,
+							[4] = 0.3,
+							[5] = 0.4,
+							[6] = 0.5,
+							[7] = 0.6,
+							[8] = 0.7,
+							[9] = 0.8,
+							[10] = 0.9,
+							[11] = 1,
+						},
+						["deadzone"] = 0.04,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_X",
 				},
 			},
