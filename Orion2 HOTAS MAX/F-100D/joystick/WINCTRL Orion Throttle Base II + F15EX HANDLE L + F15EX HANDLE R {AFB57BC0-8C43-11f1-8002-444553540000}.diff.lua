@@ -42,6 +42,14 @@ local diff = {
 			},
 			["name"] = "Wing Flap - UP",
 		},
+		["d3002pnilunilcd37vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Drag Chute Handle - Cycle",
+		},
 		["d3003pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -65,6 +73,14 @@ local diff = {
 				},
 			},
 			["name"] = "Sight Mechanical Cage Lever - TOGGLE",
+		},
+		["d3007pnilu3007cd10vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN92",
+				},
+			},
+			["name"] = "Air Start Switch - ON else OFF",
 		},
 		["d3008pnilu3008cd9vd-1vpnilvu0"] = {
 			["added"] = {

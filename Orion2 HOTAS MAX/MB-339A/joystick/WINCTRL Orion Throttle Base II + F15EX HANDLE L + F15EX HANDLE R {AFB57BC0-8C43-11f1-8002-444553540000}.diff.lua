@@ -1,7 +1,7 @@
 local diff = {
 	["axisDiffs"] = {
 		["a2001cdnil"] = {
-			["name"] = "Flight Control Cyclic Pitch",
+			["name"] = "Pitch",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Y",
@@ -9,7 +9,7 @@ local diff = {
 			},
 		},
 		["a2002cdnil"] = {
-			["name"] = "Flight Control Cyclic Roll",
+			["name"] = "Roll",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_X",
@@ -17,20 +17,20 @@ local diff = {
 			},
 		},
 		["a2003cdnil"] = {
-			["name"] = "Flight Control Yaw (pedals)",
+			["name"] = "Rudder",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_RZ",
 				},
 			},
 		},
-		["a2087cdnil"] = {
+		["a2004cdnil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_RY",
+					["key"] = "JOY_RX",
 				},
 			},
-			["name"] = "Flight Control Collective",
+			["name"] = "Thrust",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Z",
@@ -39,45 +39,77 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3174pnilu3174cd33vd-1vpnilvu0"] = {
+		["d1047pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN77",
 				},
 			},
-			["name"] = "Thrust Grip, AFCS Mode Hat - depress LEFT ← (PH)",
+			["name"] = "Flaps - UP Position",
 		},
-		["d3174pnilu3174cd33vd1vpnilvu0"] = {
+		["d1049pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN79",
 				},
 			},
-			["name"] = "Thrust Grip, AFCS Mode Hat - depress RIGHT → (IN/RA)",
+			["name"] = "Flaps - DOWN Position",
 		},
-		["d3175pnilu3175cd33vd-1vpnilvu0"] = {
+		["d1568pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN15",
+					["key"] = "JOY_BTN78",
 				},
 			},
-			["name"] = "Thrust Grip, AFCS Mode Hat - depress DOWN ↓ (TRC)",
+			["name"] = "Flaps - T/O Position",
 		},
-		["d3175pnilu3175cd33vd1vpnilvu0"] = {
+		["d20220pnilunilcdnilvd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN75",
 				},
 			},
-			["name"] = "Thrust Grip, AFCS Mode Hat - depress UP ↑ (ALT)",
+			["name"] = "[FWD] Parking brake lock - ON",
 		},
-		["d3185pnilu3185cd33vd1vpnilvu0"] = {
-			["name"] = "Cyclic Grip, CD REL Button",
-			["removed"] = {
+		["d20221pnilunilcdnilvd0.5vpnilvunil"] = {
+			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN76",
 				},
 			},
+			["name"] = "[FWD] Parking brake lock - OFF",
+		},
+		["d3461pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "Throttle - IDLE",
+		},
+		["d3462pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Throttle - OFF",
+		},
+		["d430pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN73",
+				},
+			},
+			["name"] = "Landing Gear Up",
+		},
+		["d68pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN74",
+				},
+			},
+			["name"] = "Landing Gear Up/Down",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -134,6 +166,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
+		},
+		["dnilp3535u3534cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Airbrake Extend",
+		},
+		["dnilp3536u3534cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Airbrake Retract",
 		},
 		["dnilp35u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Down slow",

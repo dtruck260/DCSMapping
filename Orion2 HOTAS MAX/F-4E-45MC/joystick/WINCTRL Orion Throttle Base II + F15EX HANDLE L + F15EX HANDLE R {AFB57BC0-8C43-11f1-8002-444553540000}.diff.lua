@@ -29,7 +29,7 @@ local diff = {
 						["hardwareDetentMax"] = 0,
 						["invert"] = false,
 						["saturationX"] = 1,
-						["saturationY"] = 0.36,
+						["saturationY"] = 0.57,
 						["slider"] = false,
 					},
 					["key"] = "JOY_X",
@@ -48,9 +48,9 @@ local diff = {
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
-						["invert"] = false,
+						["invert"] = true,
 						["saturationX"] = 1,
-						["saturationY"] = 0.36,
+						["saturationY"] = 0.56,
 						["slider"] = false,
 					},
 					["key"] = "JOY_Y",
@@ -60,6 +60,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilu3001cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Microphone Switch - UHF (Hold)",
+		},
 		["d3001pnilunilcd20vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {

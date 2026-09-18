@@ -24,6 +24,28 @@ local diff = {
 				},
 			},
 		},
+		["d3001pnilu3001cd2vd-1vpnilvu0"] = {
+			["name"] = "Microphone Switch - ICS (Hold)",
+			["removed"] = {
+				[1] = {
+					["key"] = "\\",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
+				},
+			},
+		},
+		["d3001pnilu3001cd2vd1vpnilvu0"] = {
+			["name"] = "Microphone Switch - UHF (Hold)",
+			["removed"] = {
+				[1] = {
+					["key"] = "\\",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+		},
 		["d3001pnilunilcd92vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

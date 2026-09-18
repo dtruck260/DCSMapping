@@ -1,7 +1,7 @@
 local diff = {
 	["axisDiffs"] = {
 		["a2001cdnil"] = {
-			["name"] = "Flight Control Cyclic Pitch",
+			["name"] = "Pitch",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Y",
@@ -9,7 +9,7 @@ local diff = {
 			},
 		},
 		["a2002cdnil"] = {
-			["name"] = "Flight Control Cyclic Roll",
+			["name"] = "Roll",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_X",
@@ -17,20 +17,20 @@ local diff = {
 			},
 		},
 		["a2003cdnil"] = {
-			["name"] = "Flight Control Yaw (pedals)",
+			["name"] = "Rudder",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_RZ",
 				},
 			},
 		},
-		["a2087cdnil"] = {
+		["a2004cdnil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_RY",
+					["key"] = "JOY_RX",
 				},
 			},
-			["name"] = "Flight Control Collective",
+			["name"] = "Throttle",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Z",
@@ -39,45 +39,85 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3174pnilu3174cd33vd-1vpnilvu0"] = {
+		["d10011pnilu10010cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN77",
 				},
 			},
-			["name"] = "Thrust Grip, AFCS Mode Hat - depress LEFT ← (PH)",
+			["name"] = "Flap Handle - UP else STOP",
 		},
-		["d3174pnilu3174cd33vd1vpnilvu0"] = {
+		["d10012pnilu10010cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN79",
 				},
 			},
-			["name"] = "Thrust Grip, AFCS Mode Hat - depress RIGHT → (IN/RA)",
+			["name"] = "Flap Handle - DOWN else STOP",
 		},
-		["d3175pnilu3175cd33vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Thrust Grip, AFCS Mode Hat - depress DOWN ↓ (TRC)",
-		},
-		["d3175pnilu3175cd33vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Thrust Grip, AFCS Mode Hat - depress UP ↑ (ALT)",
-		},
-		["d3185pnilu3185cd33vd1vpnilvu0"] = {
-			["name"] = "Cyclic Grip, CD REL Button",
+		["d10016pnilu10017cdnilvdnilvpnilvunil"] = {
+			["name"] = "Gun-Rocket Trigger",
 			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN1",
 				},
 			},
+		},
+		["d10018pnilu10019cdnilvdnilvpnilvunil"] = {
+			["name"] = "Bomb Release Button",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+		},
+		["d147pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Speedbrake Switch - OPEN",
+		},
+		["d148pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Speedbrake Switch - CLOSE",
+		},
+		["d3002pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN94",
+				},
+			},
+			["name"] = "Master Armament Switch - OFF",
+		},
+		["d3002pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN93",
+				},
+			},
+			["name"] = "Master Armament Switch - ON",
+		},
+		["d430pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN73",
+				},
+			},
+			["name"] = "Landing Gear Handle - UP",
+		},
+		["d431pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN74",
+				},
+			},
+			["name"] = "Landing Gear Handle - DOWN",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
