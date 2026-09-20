@@ -102,6 +102,14 @@ local diff = {
 			},
 			["name"] = "Emergency Quick Release Lever",
 		},
+		["d3122pnilu3122cd78vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "Jester Context Action (short, hold, double click)",
+		},
 		["dnilp2019u2019cdnilvdnilvp-1vu0"] = {
 			["added"] = {
 				[1] = {
