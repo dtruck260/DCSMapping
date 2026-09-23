@@ -52,6 +52,22 @@ local diff = {
 			},
 			["name"] = "Roll",
 		},
+		["a3008cd52"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "[WSO] Antenna Hand Control Slew X",
+		},
+		["a3009cd52"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "[WSO] Antenna Hand Control Slew Y",
+		},
 	},
 	["keyDiffs"] = {
 		["d3001pnilu3001cd27vd0.5vpnilvu0"] = {
@@ -86,6 +102,25 @@ local diff = {
 			},
 			["name"] = "Nose Gear Steering / Auto Acquisition Button",
 		},
+		["d3012pnilu3012cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+				[2] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Dispense Countermeasures (Chaff/Flare)",
+		},
+		["d3014pnilu3014cd52vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "[WSO] Antenna Hand Control Challenge Button",
+		},
 		["d3020pnilu3020cd27vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -109,6 +144,14 @@ local diff = {
 				},
 			},
 			["name"] = "Jester Context Action (short, hold, double click)",
+		},
+		["d3150pnilu3150cd78vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "Jester UI Action (short, hold)",
 		},
 		["dnilp2019u2019cdnilvdnilvp-1vu0"] = {
 			["added"] = {

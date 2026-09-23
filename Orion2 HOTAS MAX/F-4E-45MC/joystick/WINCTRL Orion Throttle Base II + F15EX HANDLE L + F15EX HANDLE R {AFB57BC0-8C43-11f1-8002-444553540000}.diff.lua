@@ -124,6 +124,22 @@ local diff = {
 			},
 			["name"] = "Flaps/Slats Switch - Out&Down",
 		},
+		["d3009pnilunilcd20vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Drag-Parachute - Deploy",
+		},
+		["d3010pnilu3010cd20vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Release Drag-Parachute",
+		},
 		["d3010pnilunilcd24vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -204,6 +220,22 @@ local diff = {
 			},
 			["name"] = "ALT Hold - Engage",
 		},
+		["d3109pnilu3109cd52vd0.5vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "[WSO] Antenna Hand Control Trigger (Radar, TGP) - Half Action (button)",
+		},
+		["d3109pnilu3109cd52vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "[WSO] Antenna Hand Control Trigger (Radar, TGP) - Full Action (button)",
+		},
 		["d3141pnilunilcd27vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -227,14 +259,6 @@ local diff = {
 				},
 			},
 			["name"] = "Gun/Missile Pinky Switch - Radar",
-		},
-		["d3150pnilu3150cd78vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Jester UI Action (short, hold)",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
