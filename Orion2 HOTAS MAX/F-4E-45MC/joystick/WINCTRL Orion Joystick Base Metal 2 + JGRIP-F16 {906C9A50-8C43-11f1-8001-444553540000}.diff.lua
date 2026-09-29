@@ -55,6 +55,19 @@ local diff = {
 		["a3008cd52"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0.04,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RX",
 				},
 			},
@@ -63,6 +76,19 @@ local diff = {
 		["a3009cd52"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0.04,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RY",
 				},
 			},
@@ -125,6 +151,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN9",
+				},
+				[2] = {
+					["key"] = "JOY_BTN11",
 				},
 			},
 			["name"] = "Air Refueling (AAR) Release Button",

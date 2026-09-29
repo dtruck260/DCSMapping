@@ -84,6 +84,14 @@ local diff = {
 			},
 			["name"] = "Landing Gear - Down",
 		},
+		["d3002pnilu3002cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN85",
+				},
+			},
+			["name"] = "Helmet Visor - [Toggle]",
+		},
 		["d3003pnilunilcd27vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
