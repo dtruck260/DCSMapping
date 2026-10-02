@@ -39,6 +39,121 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilu3001cd35vd1vpnilvu0.5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Gun Trigger - SECOND DETENT (Fire)",
+		},
+		["d3002pnilu3002cd35vd0.5vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Gun Trigger - FIRST DETENT",
+		},
+		["d3003pnilu3003cd35vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Missile Trigger - Fire",
+		},
+		["d3004pnilu3004cd35vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+			["name"] = "Trim Button - Fwd",
+		},
+		["d3005pnilu3005cd35vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "Trim Button - Aft",
+		},
+		["d3005pnilunilcd15vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "WCS Modes Selector Knob - cycle(CCW)",
+		},
+		["d3005pnilunilcd15vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "WCS Modes Selector Knob - cycle(CW)",
+		},
+		["d3006pnilu3006cd35vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+			["name"] = "Trim Button - Left",
+		},
+		["d3007pnilu3007cd35vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+			["name"] = "Trim Button - Right",
+		},
+		["d3017pnilu3017cd35vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "Break Lock Button - Depress",
+		},
+		["d3019pnilu3019cd35vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Brake Lever - Depress",
+		},
+		["d3025pnilu3025cd35vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+				[2] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "LockOn / NWS Button - Depress",
+		},
+		["d3027pnilu3027cd35vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Flare Dispense Button - Depress",
+		},
+		["d97pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Trimmer - Reset",
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
