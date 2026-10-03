@@ -81,8 +81,27 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN85",
 				},
+				[2] = {
+					["key"] = "JOY_BTN10",
+				},
 			},
 			["name"] = "HMS Monocle - toggle(Raise/Lower)",
+		},
+		["d3003pnilu3003cd10vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN70",
+				},
+			},
+			["name"] = "Flaps Down (TAKEOFF) Pushbutton",
+		},
+		["d3004pnilu3004cd10vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN71",
+				},
+			},
+			["name"] = "Flaps Down (LANDING) Pushbutton",
 		},
 		["d3004pnilu3004cd41vd1vpnilvu0"] = {
 			["added"] = {
@@ -171,6 +190,14 @@ local diff = {
 				},
 			},
 			["name"] = "Landing Gear Handle - EXTENDED",
+		},
+		["d72pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN69",
+				},
+			},
+			["name"] = "Flaps - toggle(Up/Down)",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

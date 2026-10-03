@@ -35,6 +35,19 @@ local diff = {
 		["a2005cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 0.61,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RY",
 				},
 			},
@@ -43,6 +56,19 @@ local diff = {
 		["a2006cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 0.61,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RX",
 				},
 			},
@@ -61,7 +87,7 @@ local diff = {
 						["hardwareDetentMax"] = 0,
 						["invert"] = false,
 						["saturationX"] = 1,
-						["saturationY"] = 0.36,
+						["saturationY"] = 0.49,
 						["slider"] = false,
 					},
 					["key"] = "JOY_X",
@@ -82,7 +108,7 @@ local diff = {
 						["hardwareDetentMax"] = 0,
 						["invert"] = true,
 						["saturationX"] = 1,
-						["saturationY"] = 0.36,
+						["saturationY"] = 0.49,
 						["slider"] = false,
 					},
 					["key"] = "JOY_Y",
@@ -93,17 +119,76 @@ local diff = {
 	},
 	["keyDiffs"] = {
 		["d100pnilu1627cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN35",
-				},
-			},
 			["name"] = "Target Lock(Air Refuel Reset/Disconnect)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
 				},
 			},
+		},
+		["d101pnilunilcdnilvdnilvpnilvunil"] = {
+			["name"] = "Weapon Change",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+		},
+		["d102pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Next Waypoint, Airfield Or Target",
+		},
+		["d103pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Radar | Display Zoom In",
+		},
+		["d104pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Radar | Display Zoom Out",
+		},
+		["d105pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "(1) Navigation Modes",
+		},
+		["d111pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "(7) Air-to-Ground Modes",
+		},
+		["d113pnilunilcdnilvdnilvpnilvunil"] = {
+			["name"] = "Cannon",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+		},
+		["d1315pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "Previous Waypoint, Airfield Or Target",
 		},
 		["d145pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -121,21 +206,29 @@ local diff = {
 			},
 			["name"] = "Flaps Up",
 		},
-		["d311pnilunilcdnilvdnilvpnilvunil"] = {
+		["d147pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN31",
+					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "Engine Left Start",
+			["name"] = "Airbrake On",
 		},
-		["d312pnilunilcdnilvdnilvpnilvunil"] = {
+		["d148pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Airbrake Off",
+		},
+		["d309pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN30",
 				},
 			},
-			["name"] = "Engine Right Start",
+			["name"] = "Engines Start",
 		},
 		["d313pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -185,6 +278,14 @@ local diff = {
 			},
 			["name"] = "Landing Gear Down",
 		},
+		["d62pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN92",
+				},
+			},
+			["name"] = "LAAP Engage/Disengage",
+		},
 		["d636pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -200,6 +301,14 @@ local diff = {
 				},
 			},
 			["name"] = "LAAP Path Hold",
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["name"] = "Weapon Fire",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

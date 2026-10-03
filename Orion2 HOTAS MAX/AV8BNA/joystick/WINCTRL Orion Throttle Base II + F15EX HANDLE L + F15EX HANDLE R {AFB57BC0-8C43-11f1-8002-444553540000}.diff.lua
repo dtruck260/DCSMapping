@@ -1,5 +1,21 @@
 local diff = {
 	["axisDiffs"] = {
+		["a2001cdnil"] = {
+			["name"] = "Pitch",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+		},
+		["a2002cdnil"] = {
+			["name"] = "Roll",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+		},
 		["a2003cdnil"] = {
 			["name"] = "Rudder",
 			["removed"] = {
@@ -9,6 +25,11 @@ local diff = {
 			},
 		},
 		["a2004cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
 			["name"] = "Thrust",
 			["removed"] = {
 				[1] = {
@@ -16,7 +37,15 @@ local diff = {
 				},
 			},
 		},
-		["a2101cdnil"] = {
+		["a2033cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "TDC Slew Horizontal",
+		},
+		["a2034cdnil"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
@@ -32,143 +61,132 @@ local diff = {
 						["saturationY"] = 1,
 						["slider"] = false,
 					},
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "TDC Slew Vertical",
+		},
+		["a2087cdnil"] = {
+			["added"] = {
+				[1] = {
 					["key"] = "JOY_SLIDER1",
 				},
 			},
-			["name"] = "Wheel Brake",
+			["name"] = "Nozzle Angle",
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd35vd1vpnilvu0.5"] = {
+		["d252pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN55",
 				},
 			},
-			["name"] = "Gun Trigger - SECOND DETENT (Fire)",
+			["name"] = "Master Warning/Caution Reset",
 		},
-		["d3002pnilu3002cd35vd0.5vpnilvu0"] = {
+		["d3454pnilunilcd13vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN78",
 				},
 			},
-			["name"] = "Gun Trigger - FIRST DETENT",
+			["name"] = "Flaps AUTO, ",
 		},
-		["d3003pnilu3003cd35vd1vpnilvu0"] = {
+		["d3454pnilunilcd13vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
+					["key"] = "JOY_BTN79",
 				},
 			},
-			["name"] = "Missile Trigger - Fire",
+			["name"] = "Flaps STOL",
 		},
-		["d3004pnilu3004cd35vd1vpnilvu0"] = {
+		["d3454pnilunilcd13vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
+					["key"] = "JOY_BTN77",
 				},
 			},
-			["name"] = "Trim Button - Fwd",
+			["name"] = "Flaps CRUISE, ",
 		},
-		["d3005pnilu3005cd35vd-1vpnilvu0"] = {
+		["d3477pnilunilcd28vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
+					["key"] = "JOY_BTN51",
 				},
 			},
-			["name"] = "Trim Button - Aft",
+			["name"] = "Automatic Flight Control Reset",
 		},
-		["d3005pnilunilcd15vd-1vpnilvunil"] = {
+		["d3489pnilunilcd28vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN35",
+					["key"] = "JOY_BTN75",
 				},
 			},
-			["name"] = "WCS Modes Selector Knob - cycle(CCW)",
+			["name"] = "Parking Brake ON",
 		},
-		["d3005pnilunilcd15vd1vpnilvunil"] = {
+		["d3489pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN33",
+					["key"] = "JOY_BTN76",
 				},
 			},
-			["name"] = "WCS Modes Selector Knob - cycle(CW)",
+			["name"] = "Parking Brake OFF",
 		},
-		["d3006pnilu3006cd35vd-1vpnilvu0"] = {
+		["d3490pnilu3490cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
+					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Trim Button - Left",
+			["name"] = "Throttle Cutoff",
 		},
-		["d3007pnilu3007cd35vd1vpnilvu0"] = {
+		["d430pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
+					["key"] = "JOY_BTN73",
 				},
 			},
-			["name"] = "Trim Button - Right",
+			["name"] = "Landing Gear UP",
 		},
-		["d3017pnilu3017cd35vd1vpnilvu0"] = {
+		["d431pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN74",
+				},
+			},
+			["name"] = "Landing Gear DOWN",
+		},
+		["d503pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN34",
 				},
 			},
-			["name"] = "Break Lock Button - Depress",
+			["name"] = "Cage/Uncage",
 		},
-		["d3019pnilu3019cd35vd1vpnilvu0"] = {
+		["d634pnilu635cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN8",
+					["key"] = "JOY_BTN35",
 				},
 			},
-			["name"] = "Brake Lever - Depress",
+			["name"] = "TDC Down (Action Position)",
 		},
-		["d3021pnilu3021cd35vd1vpnilvu0"] = {
+		["dnilp147u301cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "FuelTank Emergency Jettison Button - Depress",
+			["name"] = "Airbrake OUT",
 		},
-		["d3022pnilunilcd35vd1vpnilvunil"] = {
+		["dnilp148u301cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN22",
 				},
 			},
-			["name"] = "FuelTank Emergency Jettison Guard - OPEN",
-		},
-		["d3025pnilu3025cd35vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-				[2] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "LockOn / NWS Button - Depress",
-		},
-		["d3027pnilu3027cd35vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Flare Dispense Button - Depress",
-		},
-		["d97pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Trimmer - Reset",
+			["name"] = "Airbrake IN",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
