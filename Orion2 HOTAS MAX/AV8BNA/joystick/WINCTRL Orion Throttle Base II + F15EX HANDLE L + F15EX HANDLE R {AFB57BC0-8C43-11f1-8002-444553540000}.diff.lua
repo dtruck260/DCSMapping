@@ -84,6 +84,38 @@ local diff = {
 			},
 			["name"] = "Master Warning/Caution Reset",
 		},
+		["d3013pnilu3013cd27vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN98",
+				},
+			},
+			["name"] = "Right MPCD GAIN Increase",
+		},
+		["d3014pnilu3014cd27vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN97",
+				},
+			},
+			["name"] = "Right MPCD GAIN Decrease",
+		},
+		["d3015pnilu3015cd27vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN101",
+				},
+			},
+			["name"] = "Right MPCD CON Increase",
+		},
+		["d3016pnilu3016cd27vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN100",
+				},
+			},
+			["name"] = "Right MPCD CON Decrease",
+		},
 		["d3454pnilunilcd13vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -115,6 +147,14 @@ local diff = {
 				},
 			},
 			["name"] = "Automatic Flight Control Reset",
+		},
+		["d3477pnilunilcd28vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN53",
+				},
+			},
+			["name"] = "Automatic Flight Control ON",
 		},
 		["d3489pnilunilcd28vd0vpnilvunil"] = {
 			["added"] = {
@@ -163,6 +203,38 @@ local diff = {
 				},
 			},
 			["name"] = "Cage/Uncage",
+		},
+		["d563pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "A/A Mode FWD: Sidewinder (Boresight)",
+		},
+		["d564pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "A/A Mode AFT: Sidewinder (SEAM)",
+		},
+		["d565pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "A/A Mode DOWN: Gun",
+		},
+		["d59pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN54",
+				},
+			},
+			["name"] = "Altitude Hold On/Off Toggle",
 		},
 		["d634pnilu635cdnilvdnilvpnilvunil"] = {
 			["added"] = {

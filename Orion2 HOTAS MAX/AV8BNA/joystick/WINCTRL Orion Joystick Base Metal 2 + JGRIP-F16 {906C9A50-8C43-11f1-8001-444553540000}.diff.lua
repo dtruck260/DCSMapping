@@ -106,29 +106,21 @@ local diff = {
 			},
 			["name"] = "AG Target Undesignate / NWS / FOV Toggle",
 		},
-		["d563pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "A/A Mode FWD: Sidewinder (Boresight)",
-		},
-		["d564pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN34",
-				},
-			},
-			["name"] = "A/A Mode AFT: Sidewinder (SEAM)",
-		},
-		["d565pnilunilcdnilvdnilvpnilvunil"] = {
+		["d568pnilu570cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN31",
 				},
 			},
-			["name"] = "A/A Mode DOWN: Gun",
+			["name"] = "WP Increment",
+		},
+		["d634pnilu635cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "TDC Down (Action Position)",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["added"] = {
