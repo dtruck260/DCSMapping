@@ -95,6 +95,14 @@ local diff = {
 			},
 			["name"] = "Flaps Down (TAKEOFF) Pushbutton",
 		},
+		["d3003pnilu3003cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN89",
+				},
+			},
+			["name"] = "ALT HOLD Pushbutton",
+		},
 		["d3004pnilu3004cd10vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -102,6 +110,14 @@ local diff = {
 				},
 			},
 			["name"] = "Flaps Down (LANDING) Pushbutton",
+		},
+		["d3004pnilu3004cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN91",
+				},
+			},
+			["name"] = "ATT HOLD Pushbutton",
 		},
 		["d3004pnilu3004cd41vd1vpnilvu0"] = {
 			["added"] = {

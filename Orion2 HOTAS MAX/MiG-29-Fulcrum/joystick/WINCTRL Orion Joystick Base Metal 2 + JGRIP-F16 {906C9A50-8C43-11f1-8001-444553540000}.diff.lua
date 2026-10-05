@@ -47,6 +47,14 @@ local diff = {
 			},
 			["name"] = "Gun Trigger - SECOND DETENT (Fire)",
 		},
+		["d3001pnilunilcd43vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "HMS Monocle - toggle(Raise/Lower)",
+		},
 		["d3002pnilu3002cd35vd0.5vpnilvu0"] = {
 			["added"] = {
 				[1] = {

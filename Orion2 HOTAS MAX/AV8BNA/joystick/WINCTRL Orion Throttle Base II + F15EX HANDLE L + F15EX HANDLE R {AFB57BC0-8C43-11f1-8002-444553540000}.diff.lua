@@ -27,6 +27,19 @@ local diff = {
 		["a2004cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 0.64,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RY",
 				},
 			},
