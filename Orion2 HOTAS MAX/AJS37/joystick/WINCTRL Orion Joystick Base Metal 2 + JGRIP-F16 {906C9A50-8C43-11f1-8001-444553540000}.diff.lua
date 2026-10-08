@@ -18,6 +18,54 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3005pnilunilcd23vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "T0 Fix",
+		},
+		["d3006pnilunilcd23vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "T1 Fix",
+		},
+		["d3007pnilunilcd23vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "TV Fix",
+		},
+		["d3090pnilu3090cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Reference button",
+		},
+		["d3212pnilu3212cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+				},
+			},
+			["name"] = "Memory mode",
+		},
+		["d3213pnilu3213cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "Radar Terrain Avoidance Mode",
+		},
 		["d3300pnilu3300cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -38,6 +86,38 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
+		},
+		["d3669pnilunilcd22vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "Mode select - turn counterclockwise",
+		},
+		["d3669pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "Mode select - turn clockwise",
+		},
+		["d3969pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "Weapon selector turn clockwise",
+		},
+		["d3969pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "Weapon selector turn counterclockwise",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -70,6 +150,38 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
+		},
+		["dnilp3101u3100cd5vdnilvp1vu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Radarstick Aft",
+		},
+		["dnilp3102u3100cd5vdnilvp1vu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Radarstick Forward",
+		},
+		["dnilp3103u3100cd5vdnilvp1vu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Radarstick Left",
+		},
+		["dnilp3104u3100cd5vdnilvp1vu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Radarstick Right",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

@@ -48,6 +48,19 @@ local diff = {
 		["a3322cd2"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_Y",
 				},
 			},
@@ -55,6 +68,30 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilunilcd26vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN55",
+				},
+			},
+			["name"] = "Master caution reset",
+		},
+		["d3002pnilu3002cd23vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "A2 Mode (Three position switch)",
+		},
+		["d3002pnilu3002cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "A0 Mode (Three position switch)",
+		},
 		["d3010pnilunilcd23vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -70,6 +107,70 @@ local diff = {
 				},
 			},
 			["name"] = "Select Data Cartridge - Up",
+		},
+		["d3301pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN92",
+				},
+			},
+			["name"] = "SAS mode SPAK flight stabiliser",
+		},
+		["d3302pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN91",
+				},
+			},
+			["name"] = "Autopilot mode ATT (Attitude hold)",
+		},
+		["d3303pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN89",
+				},
+			},
+			["name"] = "Autopilot mode HÖJD (Altitude Hold)",
+		},
+		["d3311pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Autothrottle disconnect / IR-missile fast select",
+		},
+		["d3314pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "IR-missile uncage",
+		},
+		["d3320pnilu3320cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Fuel Tank Jettison Button Depress/Release",
+		},
+		["d3401pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN53",
+				},
+			},
+			["name"] = "HUD Position LOW/HIGH (toggle)",
+		},
+		["d3402pnilu3402cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "External Tank Release Cover Open/Close",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
@@ -150,6 +251,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
+		},
+		["dnilp3316unilcd2vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN97",
+				},
+			},
+			["name"] = "EP-13 Brightness - DOWN (Slow)",
+		},
+		["dnilp3316unilcd2vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN98",
+				},
+			},
+			["name"] = "EP-13 Brightness - UP (Slow)",
 		},
 		["dnilp33u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Right slow",

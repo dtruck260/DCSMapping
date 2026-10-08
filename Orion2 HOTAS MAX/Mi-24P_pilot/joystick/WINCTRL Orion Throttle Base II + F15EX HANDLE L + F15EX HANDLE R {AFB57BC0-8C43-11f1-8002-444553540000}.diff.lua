@@ -108,6 +108,30 @@ local diff = {
 			},
 			["name"] = "Main Fire Control Switch - OFF",
 		},
+		["d3108pnilunilcd6vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "AI Panel Show/Hide",
+		},
+		["d3110pnilunilcd6vd0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "AI Gunner Burst Switch",
+		},
+		["d3110pnilunilcd6vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "AI Gunner ROE Iterate",
+		},
 		["d430pnilunilcdnilvd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
