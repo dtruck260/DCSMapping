@@ -110,6 +110,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3010pnilunilcd40vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN55",
+				},
+			},
+			["name"] = "IHADSS show",
+		},
 		["d3028pnilu3028cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

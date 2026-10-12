@@ -39,6 +39,25 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3114pnilunilcd63vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Command Engineer to Raise Ramp to Next Stage",
+		},
+		["d3114pnilunilcd63vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+				[2] = {
+					["key"] = "JOY_BTN90",
+				},
+			},
+			["name"] = "Command Engineer to Lower Ramp to Next Stage",
+		},
 		["d3174pnilu3174cd33vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
