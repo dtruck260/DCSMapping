@@ -84,13 +84,29 @@ local diff = {
 			},
 			["name"] = "Wheel Parking Brake - OFF*",
 		},
-		["d3042pnilunilcd11vd1vpnilvunil"] = {
+		["d3048pnilunilcd16vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN75",
+					["key"] = "JOY_BTN84",
 				},
 			},
-			["name"] = "Wheel Parking Brake - ON*",
+			["name"] = "Sight, Reflector Glass Position - FORWARD",
+		},
+		["d3049pnilunilcd16vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN83",
+				},
+			},
+			["name"] = "Sight, Reflector Glass Position - BACKWARD",
+		},
+		["d3051pnilunilcd16vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN85",
+				},
+			},
+			["name"] = "Sight, Reflector Glass Lock - LOCK/UNLOCK",
 		},
 		["d3081pnilunilcd6vd1vpnilvunil"] = {
 			["added"] = {
@@ -155,6 +171,14 @@ local diff = {
 				},
 			},
 			["name"] = "Night Vision Goggles",
+		},
+		["d855pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN75",
+				},
+			},
+			["name"] = "Wheel Parking Brake",
 		},
 		["d856pnilu857cdnilvdnilvpnilvunil"] = {
 			["added"] = {

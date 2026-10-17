@@ -90,7 +90,7 @@ local diff = {
 		["d3005pnilunilcd15vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN35",
+					["key"] = "JOY_BTN40",
 				},
 			},
 			["name"] = "WCS Modes Selector Knob - cycle(CCW)",
@@ -98,7 +98,7 @@ local diff = {
 		["d3005pnilunilcd15vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN33",
+					["key"] = "JOY_BTN38",
 				},
 			},
 			["name"] = "WCS Modes Selector Knob - cycle(CW)",
@@ -122,7 +122,10 @@ local diff = {
 		["d3017pnilu3017cd35vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN34",
+					["key"] = "JOY_BTN36",
+				},
+				[2] = {
+					["key"] = "JOY_BTN39",
 				},
 			},
 			["name"] = "Break Lock Button - Depress",
@@ -143,6 +146,22 @@ local diff = {
 			},
 			["name"] = "FuelTank Emergency Jettison Button - Depress",
 		},
+		["d3022pnilunilcd15vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "Radar Mode Select Knob - cycle(CCW)",
+		},
+		["d3022pnilunilcd15vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "Radar Mode Select Knob - cycle(CW)",
+		},
 		["d3022pnilunilcd35vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -157,10 +176,26 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 				[2] = {
-					["key"] = "JOY_BTN32",
+					["key"] = "JOY_BTN37",
 				},
 			},
 			["name"] = "LockOn / NWS Button - Depress",
+		},
+		["d3026pnilunilcd15vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "Radar Target Elevation Select Knob (ΔH) - cycle(CCW/Decrease)",
+		},
+		["d3026pnilunilcd15vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "Radar Target Elevation Select Knob (ΔH) - cycle(CW/Increase)",
 		},
 		["d3027pnilu3027cd35vd1vpnilvu0"] = {
 			["added"] = {

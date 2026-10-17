@@ -37,6 +37,27 @@ local diff = {
 				},
 			},
 		},
+		["a3010cd15"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "IR GAIN/HELM BRIGHT Control Knob",
+		},
 		["a3038cd35"] = {
 			["added"] = {
 				[1] = {
@@ -79,13 +100,18 @@ local diff = {
 		["d3001pnilunilcd43vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN85",
-				},
-				[2] = {
 					["key"] = "JOY_BTN10",
 				},
 			},
 			["name"] = "HMS Monocle - toggle(Raise/Lower)",
+		},
+		["d3001pnilunilcd61vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN85",
+				},
+			},
+			["name"] = "Helmet Visor - toggle(Raise/Lower)",
 		},
 		["d3003pnilu3003cd10vd1vpnilvu0"] = {
 			["added"] = {
@@ -126,6 +152,14 @@ local diff = {
 				},
 			},
 			["name"] = "Emergency Missile Jettison Button",
+		},
+		["d3009pnilunilcd49vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "HUD Filter Operating Handle - toggle(Erect/Remove)",
 		},
 		["d3011pnilunilcd15vd0vpnilvunil"] = {
 			["added"] = {
