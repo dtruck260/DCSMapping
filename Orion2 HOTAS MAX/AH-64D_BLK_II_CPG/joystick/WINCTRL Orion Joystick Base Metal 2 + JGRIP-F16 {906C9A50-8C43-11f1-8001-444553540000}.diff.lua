@@ -162,6 +162,14 @@ local diff = {
 			},
 			["name"] = "RHG C-Scope Button",
 		},
+		["d3076pnilu3076cd52vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "RHG Sight Slave Button",
+		},
 		["d3078pnilu3078cd52vd0.5vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -177,6 +185,22 @@ local diff = {
 				},
 			},
 			["name"] = "RHG LRFD Trigger - SECOND DETENT",
+		},
+		["d3079pnilu3079cd52vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "RHG MTT Promote Switch - Fwd/Center",
+		},
+		["d3080pnilu3080cd52vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "RHG MTT Promote Switch - Aft/Center",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

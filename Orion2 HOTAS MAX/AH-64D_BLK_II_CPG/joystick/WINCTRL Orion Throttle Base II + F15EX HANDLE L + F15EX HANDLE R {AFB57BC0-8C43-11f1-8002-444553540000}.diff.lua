@@ -68,6 +68,22 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3030pnilu3030cd52vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "LHG Image AutoTrack/Offset Switch - IAT/Center",
+		},
+		["d3031pnilu3031cd52vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "LHG Image AutoTrack/Offset Switch - OFS/Center",
+		},
 		["d3032pnilu3032cd52vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -156,6 +172,14 @@ local diff = {
 			},
 			["name"] = "LHG Linear Motion Compensation (LMC) Button",
 		},
+		["d3045pnilu3045cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "FCR Scan Switch - S (Single)/Center",
+		},
 		["d3045pnilu3045cd52vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -163,6 +187,14 @@ local diff = {
 				},
 			},
 			["name"] = "LHG FCR Mode Switch - GTM (Ground Targeting Mode)",
+		},
+		["d3046pnilu3046cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN53",
+				},
+			},
+			["name"] = "FCR Scan Switch - C (Continuous)/Center",
 		},
 		["d3046pnilu3046cd52vd-1vpnilvu0"] = {
 			["added"] = {
