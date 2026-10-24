@@ -68,6 +68,38 @@ local diff = {
 			},
 			["name"] = "Pilot AI - On/Off",
 		},
+		["d3008pnilu3008cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN89",
+				},
+			},
+			["name"] = "Perform Hover",
+		},
+		["d3060pnilu3060cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN91",
+				},
+			},
+			["name"] = "Land",
+		},
+		["d3102pnilu3102cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN99",
+				},
+			},
+			["name"] = "Set Heading - MMS",
+		},
+		["d3104pnilu3104cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN102",
+				},
+			},
+			["name"] = "Pilot AI HUD - On/Off",
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
@@ -99,6 +131,78 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
+		},
+		["dnilp3003unilcd5vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Engine RPM Trim - DECREASE",
+		},
+		["dnilp3003unilcd5vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Engine RPM Trim - INCREASE",
+		},
+		["dnilp3005unilcd21vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN95",
+				},
+			},
+			["name"] = "Armament Control Panel, Master Switch - Off",
+		},
+		["dnilp3005unilcd21vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN94",
+				},
+			},
+			["name"] = "Armament Control Panel, Master Switch - STANDBY",
+		},
+		["dnilp3005unilcd21vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN93",
+				},
+			},
+			["name"] = "Armament Control Panel, Master Switch - ARMED",
+		},
+		["dnilp3011u3011cd18vdnilvp-0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN100",
+				},
+			},
+			["name"] = "Decrease Altitude",
+		},
+		["dnilp3012u3012cd18vdnilvp0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN101",
+				},
+			},
+			["name"] = "Increase Altitude",
+		},
+		["dnilp3103u3103cd18vdnilvp-0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN97",
+				},
+			},
+			["name"] = "Adjust Heading Left",
+		},
+		["dnilp3103u3103cd18vdnilvp0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN98",
+				},
+			},
+			["name"] = "Adjust Heading Right",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

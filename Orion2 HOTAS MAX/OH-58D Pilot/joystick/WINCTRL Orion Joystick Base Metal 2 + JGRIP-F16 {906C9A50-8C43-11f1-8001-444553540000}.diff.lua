@@ -1,5 +1,47 @@
 local diff = {
 	["axisDiffs"] = {
+		["a2001cdnil"] = {
+			["changed"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.18,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Flight Control Cyclic Pitch",
+		},
+		["a2002cdnil"] = {
+			["changed"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.18,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "Flight Control Cyclic Roll",
+		},
 		["a2003cdnil"] = {
 			["name"] = "Flight Control Pedals (Antitorque)",
 			["removed"] = {
@@ -18,6 +60,54 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3026pnilu3026cd21vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Fire Weapon [1st Detent]",
+		},
+		["d3027pnilu3027cd21vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Fire Weapon [2nd Detent]",
+		},
+		["d3030pnilu3030cd11vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "Weapon Select Switch - DOWN [ASE Page]",
+		},
+		["d3031pnilu3031cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "Weapon Select Switch - UP [Weapon Configuration Page]",
+		},
+		["d3032pnilu3032cd11vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "Weapon Select Switch - LEFT [Left Weapon Sparse VSD Page]",
+		},
+		["d3033pnilu3033cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "Weapon Select Switch - RIGHT [Right Weapon Sparse VSD Page]",
+		},
 		["d3101pnilu3101cd42vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
