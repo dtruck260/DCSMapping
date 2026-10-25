@@ -84,6 +84,14 @@ local diff = {
 			},
 			["name"] = "Land",
 		},
+		["d3101pnilu3101cd14vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN55",
+				},
+			},
+			["name"] = "Multifunction Keyboard, Acknowledge/Recall Switch: ACKNOWLEDGE <> CENTER",
+		},
 		["d3102pnilu3102cd18vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -147,6 +155,22 @@ local diff = {
 				},
 			},
 			["name"] = "Engine RPM Trim - INCREASE",
+		},
+		["dnilp3004unilcd48vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "Pilot Display Unit PDU - HIDE",
+		},
+		["dnilp3004unilcd48vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN53",
+				},
+			},
+			["name"] = "Pilot Display Unit PDU - SHOW",
 		},
 		["dnilp3005unilcd21vdnilvp-1vunil"] = {
 			["added"] = {

@@ -118,6 +118,14 @@ local diff = {
 			},
 			["name"] = "IHADSS show",
 		},
+		["d3017pnilunilcd80vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN53",
+				},
+			},
+			["name"] = "CMWS Flare Squibs Switch - ARM/SAFE",
+		},
 		["d3028pnilu3028cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
