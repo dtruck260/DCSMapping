@@ -60,6 +60,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3006pnilu3006cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN86",
+				},
+			},
+			["name"] = "Perform Baro Level Flight",
+		},
 		["d3007pnilu3007cd18vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -75,6 +83,46 @@ local diff = {
 				},
 			},
 			["name"] = "Perform Hover",
+		},
+		["d3013pnilu3013cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN88",
+				},
+			},
+			["name"] = "Perform Follow Terrain Flight",
+		},
+		["d3034pnilu3034cd11vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Display Select Switch - DOWN [HSD Page]",
+		},
+		["d3035pnilu3035cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Display Select Switch - UP [MMS Page]",
+		},
+		["d3036pnilu3036cd11vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Display Select Switch - LEFT [VSD Page]Display Select Switch - LEFT [VSD Page]",
+		},
+		["d3037pnilu3037cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Display Select Switch - RIGHT [COMM Page]",
 		},
 		["d3060pnilu3060cd18vd1vpnilvu0"] = {
 			["added"] = {

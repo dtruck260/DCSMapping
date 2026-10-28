@@ -60,6 +60,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3007pnilu3007cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Pilot AI - On/Off",
+		},
 		["d3026pnilu3026cd21vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -155,6 +163,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
+		},
+		["dnilp3009u3009cd18vdnilvp0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+			["name"] = "Increase Speed",
+		},
+		["dnilp3010u3010cd18vdnilvp-0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "Decrease Speed",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
