@@ -50,6 +50,22 @@ local diff = {
 			},
 			["name"] = "MMS Point-Track On / HOG Menu Selection Confirm",
 		},
+		["d3026pnilu3026cd22vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Target Designate/Locate Function - Select / HOG Menu Page Down",
+		},
+		["d3026pnilu3026cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "NAV Designate Function - Select / HOG Menu Page Up",
+		},
 		["d3039pnilu3039cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -57,6 +73,22 @@ local diff = {
 				},
 			},
 			["name"] = "MMS Sensor Select TV/TIS / HOG Menu - Back",
+		},
+		["dnilp3047unilcd23vdnilvp-0.005vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Copilot MFD, Brightness - DECREASE",
+		},
+		["dnilp3047unilcd23vdnilvp0.005vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Copilot MFD, Brightness - INCREASE",
 		},
 	},
 }

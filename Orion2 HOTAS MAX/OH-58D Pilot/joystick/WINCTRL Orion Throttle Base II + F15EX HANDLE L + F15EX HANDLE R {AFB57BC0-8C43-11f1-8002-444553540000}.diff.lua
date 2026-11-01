@@ -207,18 +207,13 @@ local diff = {
 		["dnilp3004unilcd48vdnilvp0vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN51",
+					["key"] = "JOY_BTN53",
+				},
+				[2] = {
+					["key"] = "JOY_BTN85",
 				},
 			},
 			["name"] = "Pilot Display Unit PDU - HIDE",
-		},
-		["dnilp3004unilcd48vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN53",
-				},
-			},
-			["name"] = "Pilot Display Unit PDU - SHOW",
 		},
 		["dnilp3005unilcd21vdnilvp-1vunil"] = {
 			["added"] = {
