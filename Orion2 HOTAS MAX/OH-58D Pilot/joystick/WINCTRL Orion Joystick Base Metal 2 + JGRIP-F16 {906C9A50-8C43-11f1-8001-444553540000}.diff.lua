@@ -68,6 +68,14 @@ local diff = {
 			},
 			["name"] = "Pilot AI - On/Off",
 		},
+		["d3013pnilu3013cd21vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Missile Step",
+		},
 		["d3026pnilu3026cd21vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -131,6 +139,14 @@ local diff = {
 				},
 			},
 			["name"] = "Trimmer Reset",
+		},
+		["d3109pnilu3109cd42vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Missile Activate (ATAS Only)",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
