@@ -7,7 +7,7 @@ local diff = {
 						["curvature"] = {
 							[1] = 0.18,
 						},
-						["deadzone"] = 0,
+						["deadzone"] = 0.03,
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
@@ -28,7 +28,7 @@ local diff = {
 						["curvature"] = {
 							[1] = 0.18,
 						},
-						["deadzone"] = 0,
+						["deadzone"] = 0.03,
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
@@ -76,6 +76,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilunilcd87vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN36",
+				},
+			},
+			["name"] = "Request Aircraft Control",
+		},
 		["d3002pnilu3002cd87vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
