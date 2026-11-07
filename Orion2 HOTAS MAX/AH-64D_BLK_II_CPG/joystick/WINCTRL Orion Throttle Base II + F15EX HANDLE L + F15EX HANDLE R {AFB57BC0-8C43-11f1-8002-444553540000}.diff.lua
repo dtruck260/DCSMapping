@@ -40,6 +40,19 @@ local diff = {
 		["a3042cd25"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.18,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 0.45,
+						["slider"] = false,
+					},
 					["key"] = "JOY_X",
 				},
 			},
@@ -50,7 +63,7 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0,
+							[1] = 0.18,
 						},
 						["deadzone"] = 0,
 						["hardwareDetent"] = false,
@@ -58,7 +71,7 @@ local diff = {
 						["hardwareDetentMax"] = 0,
 						["invert"] = true,
 						["saturationX"] = 1,
-						["saturationY"] = 1,
+						["saturationY"] = 0.45,
 						["slider"] = false,
 					},
 					["key"] = "JOY_Y",

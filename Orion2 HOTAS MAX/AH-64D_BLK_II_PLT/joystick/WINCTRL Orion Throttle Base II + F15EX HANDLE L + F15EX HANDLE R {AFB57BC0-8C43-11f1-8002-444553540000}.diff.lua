@@ -79,7 +79,7 @@ local diff = {
 						["hardwareDetentMax"] = 0,
 						["invert"] = false,
 						["saturationX"] = 1,
-						["saturationY"] = 0.36,
+						["saturationY"] = 0.45,
 						["slider"] = false,
 					},
 					["key"] = "JOY_X",
@@ -100,7 +100,7 @@ local diff = {
 						["hardwareDetentMax"] = 0,
 						["invert"] = true,
 						["saturationX"] = 1,
-						["saturationY"] = 0.36,
+						["saturationY"] = 0.45,
 						["slider"] = false,
 					},
 					["key"] = "JOY_Y",
@@ -125,6 +125,38 @@ local diff = {
 				},
 			},
 			["name"] = "CMWS Flare Squibs Switch - ARM/SAFE",
+		},
+		["d3024pnilu3024cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "FCR Scan Size Switch - Z/Up",
+		},
+		["d3025pnilu3025cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "FCR Scan Size Switch - M/Down",
+		},
+		["d3026pnilu3026cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "FCR Scan Size Switch - N/Left",
+		},
+		["d3027pnilu3027cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "FCR Scan Size Switch - W/Right",
 		},
 		["d3028pnilu3028cd25vd1vpnilvu0"] = {
 			["added"] = {
