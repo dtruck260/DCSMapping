@@ -111,6 +111,14 @@ local diff = {
 			},
 		},
 		["d313pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Home",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
+				},
+			},
 			["name"] = "Power Lever (Left) - OFF",
 			["removed"] = {
 				[1] = {
@@ -120,6 +128,17 @@ local diff = {
 					},
 				},
 			},
+		},
+		["d314pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Home",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "Power Lever (Right) - OFF",
 		},
 	},
 }
