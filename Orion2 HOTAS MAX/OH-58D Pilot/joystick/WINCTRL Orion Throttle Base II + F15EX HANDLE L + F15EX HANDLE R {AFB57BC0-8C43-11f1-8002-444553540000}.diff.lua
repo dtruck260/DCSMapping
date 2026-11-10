@@ -60,6 +60,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3004pnilu3004cd15vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN85",
+				},
+			},
+			["name"] = "Night Vision Goggles - On/Off",
+		},
 		["d3006pnilu3006cd18vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -209,9 +217,6 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN53",
 				},
-				[2] = {
-					["key"] = "JOY_BTN85",
-				},
 			},
 			["name"] = "Pilot Display Unit PDU - HIDE",
 		},
@@ -254,6 +259,22 @@ local diff = {
 				},
 			},
 			["name"] = "Increase Altitude",
+		},
+		["dnilp3013u3013cd15vdnilvp-1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN83",
+				},
+			},
+			["name"] = "Night Vision Goggles Gain - DECREASE",
+		},
+		["dnilp3013u3013cd15vdnilvp1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN84",
+				},
+			},
+			["name"] = "Night Vision Goggles Gain - INCREASE",
 		},
 		["dnilp3103u3103cd18vdnilvp-0.1vu0"] = {
 			["added"] = {

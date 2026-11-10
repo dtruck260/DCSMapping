@@ -60,13 +60,37 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d71pnilunilcdnilvdnilvpnilvunil"] = {
+		["d3333pnilu3333cd35vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN85",
 				},
 			},
+			["name"] = "Night Vision Goggles On/Off",
+		},
+		["d71pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN72",
+				},
+			},
 			["name"] = "Cockpit door open/close",
+		},
+		["d840pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN84",
+				},
+			},
+			["name"] = "Night Vision Goggles Gain - INC",
+		},
+		["d841pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN83",
+				},
+			},
+			["name"] = "Night Vision Goggles Gain - DEC",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Fire Gun or Rockets",

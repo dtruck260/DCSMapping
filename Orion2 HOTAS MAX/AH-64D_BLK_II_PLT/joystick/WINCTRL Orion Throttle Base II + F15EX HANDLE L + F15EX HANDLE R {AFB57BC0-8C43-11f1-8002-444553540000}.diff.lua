@@ -126,6 +126,30 @@ local diff = {
 			},
 			["name"] = "CMWS Flare Squibs Switch - ARM/SAFE",
 		},
+		["d3023pnilunilcd3vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "NVS MODE Switch - OFF",
+		},
+		["d3023pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "NVS MODE Switch - NORM",
+		},
+		["d3023pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "NVS MODE Switch - FIXED",
+		},
 		["d3024pnilu3024cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -246,6 +270,14 @@ local diff = {
 			},
 			["name"] = "FCR Scan Switch - C (Continuous)/Center",
 		},
+		["d3054pnilu3054cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Boresight/Polarity Switch - PLRT",
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
@@ -277,6 +309,38 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
+		},
+		["dnilp3025unilcd3vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN97",
+				},
+			},
+			["name"] = "FLIR GAIN Control Knob - CCW/Decrease",
+		},
+		["dnilp3025unilcd3vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN98",
+				},
+			},
+			["name"] = "FLIR GAIN Control Knob - CW/Increase",
+		},
+		["dnilp3026unilcd3vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN100",
+				},
+			},
+			["name"] = "FLIR LVL Control Knob - CCW/Decrease",
+		},
+		["dnilp3026unilcd3vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN101",
+				},
+			},
+			["name"] = "FLIR LVL Control Knob - CW/Increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
