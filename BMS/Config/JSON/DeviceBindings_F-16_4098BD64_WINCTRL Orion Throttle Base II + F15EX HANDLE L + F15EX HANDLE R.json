@@ -1,0 +1,692 @@
+{
+  "schema_version": 2,
+  "binding_type": "hotas",
+  "durable_device_key": "4098BD64",
+  "pidvid": "4098BD64",
+  "product_name": "WINCTRL Orion Throttle Base II + F15EX HANDLE L + F15EX HANDLE R",
+  "instance_name": "WINCTRL Orion Throttle Base II + F15EX HANDLE L + F15EX HANDLE R",
+  "vendor_id_hex": "BD64",
+  "product_id_hex": "4098",
+  "duplicate_pidvid_sequence_number": null,
+  "axis_count": 8,
+  "button_count": 128,
+  "pov_count": 0,
+  "capabilities_read_successfully": true,
+  "last_seen_instance_guid": "{7c4c3020-e5c2-11f1-8012-444553540000}",
+  "aircraft_profile": "F-16",
+  "axis_binding_scope": "shared_currently_f16_wins_if_files_differ",
+  "axis_bindings": [
+    {
+      "logical_axis_name": "Pitch",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Roll",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Yaw",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Throttle",
+      "physical_axis_index": 4,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false,
+      "afterburner_detent": 54544,
+      "idle_detent": 1
+    },
+    {
+      "logical_axis_name": "Throttle_Right",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Toe_Brake",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Toe_Brake_Right",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "FOV",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Trim_Pitch",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Trim_Yaw",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Trim_Roll",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Radar_Antenna_Elevation",
+      "physical_axis_index": 5,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Range_Knob",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Cursor_X",
+      "physical_axis_index": 0,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Cursor_Y",
+      "physical_axis_index": 1,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": true
+    },
+    {
+      "logical_axis_name": "COMM_Channel_1",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "COMM_Channel_2",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "MSL_Volume",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Threat_Volume",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "intercom",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "AI_vs_IVC",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "HUD_Brightness",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "FLIR_Brightness",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "HMS_Brightness",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Reticle_Depression",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Camera_Distance",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "HSI_Course_Knob",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "HSI_Heading_Knob",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "Altimeter_Knob",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    },
+    {
+      "logical_axis_name": "ILS_Volume_Knob",
+      "physical_axis_index": null,
+      "saturation": "None",
+      "deadzone": "None",
+      "curve": 1,
+      "center_offset": 0,
+      "invert": false
+    }
+  ],
+  "button_bindings": [
+    {
+      "button_index": 0,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimThrottleIdleDetentToggle",
+      "invoke": "Default",
+      "sound_id": 314
+    },
+    {
+      "button_index": 1,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimThrottleIdleDetentToggle",
+      "invoke": "Default",
+      "sound_id": 314
+    },
+    {
+      "button_index": 6,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimDeselectOverride",
+      "invoke": "Default",
+      "sound_id": -1
+    },
+    {
+      "button_index": 8,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimSelectSRMOverride",
+      "invoke": "Default",
+      "sound_id": -1
+    },
+    {
+      "button_index": 10,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "OTWVRZoom",
+      "invoke": "Default",
+      "sound_id": -1
+    },
+    {
+      "button_index": 11,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimICPAA",
+      "invoke": "Default",
+      "sound_id": 122
+    },
+    {
+      "button_index": 12,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimICPNext",
+      "invoke": "Default",
+      "sound_id": 126
+    },
+    {
+      "button_index": 13,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimICPAG",
+      "invoke": "Default",
+      "sound_id": 122
+    },
+    {
+      "button_index": 14,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimICPPrevious",
+      "invoke": "Default",
+      "sound_id": 126
+    },
+    {
+      "button_index": 15,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimCursorEnable",
+      "invoke": "Default",
+      "sound_id": -1
+    },
+    {
+      "button_index": 17,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimPilotToggle",
+      "invoke": "Default",
+      "sound_id": -1
+    },
+    {
+      "button_index": 21,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "AFBrakesIn",
+      "invoke": "Default",
+      "sound_id": -1
+    },
+    {
+      "button_index": 23,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "AFBrakesOut",
+      "invoke": "Default",
+      "sound_id": -1
+    },
+    {
+      "button_index": 25,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimRingCommMenu",
+      "invoke": "Default",
+      "sound_id": -1
+    },
+    {
+      "button_index": 27,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimRangeKnobUp",
+      "invoke": "Default",
+      "sound_id": -1
+    },
+    {
+      "button_index": 29,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimThrottleIdleDetentForward",
+      "invoke": "Default",
+      "sound_id": 314
+    },
+    {
+      "button_index": 30,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimThrottleIdleDetentForward",
+      "invoke": "Default",
+      "sound_id": 314
+    },
+    {
+      "button_index": 31,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimRangeKnobDown",
+      "invoke": "Default",
+      "sound_id": -1
+    },
+    {
+      "button_index": 33,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimToggleMissileCage",
+      "invoke": "Default",
+      "sound_id": -1
+    },
+    {
+      "button_index": 50,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimPilotFlashlight",
+      "invoke": "Default",
+      "sound_id": -1
+    },
+    {
+      "button_index": 52,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimFLCSReset",
+      "invoke": "Default",
+      "sound_id": 115
+    },
+    {
+      "button_index": 55,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "OTWToggleFrameRate",
+      "invoke": "Default",
+      "sound_id": -1
+    },
+    {
+      "button_index": 72,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "AFGearUp",
+      "invoke": "Default",
+      "sound_id": 119
+    },
+    {
+      "button_index": 73,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "AFGearDown",
+      "invoke": "Default",
+      "sound_id": 118
+    },
+    {
+      "button_index": 79,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimVRHMDReset",
+      "invoke": "Default",
+      "sound_id": -1
+    },
+    {
+      "button_index": 82,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimHmsSymWheelDn",
+      "invoke": "Default",
+      "sound_id": 116
+    },
+    {
+      "button_index": 83,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimHmsSymWheelUp",
+      "invoke": "Default",
+      "sound_id": 116
+    },
+    {
+      "button_index": 84,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "ToggleNVGMode",
+      "invoke": "Default",
+      "sound_id": -1
+    },
+    {
+      "button_index": 85,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimLeftAPUp",
+      "invoke": "Default",
+      "sound_id": 115
+    },
+    {
+      "button_index": 86,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimLeftAPMid",
+      "invoke": "Default",
+      "sound_id": 115
+    },
+    {
+      "button_index": 87,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimLeftAPDown",
+      "invoke": "Default",
+      "sound_id": 115
+    },
+    {
+      "button_index": 88,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimRightAPUp",
+      "invoke": "Default",
+      "sound_id": 319
+    },
+    {
+      "button_index": 89,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimRightAPMid",
+      "invoke": "Default",
+      "sound_id": 320
+    },
+    {
+      "button_index": 90,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimRightAPDown",
+      "invoke": "Default",
+      "sound_id": 319
+    },
+    {
+      "button_index": 91,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimToggleTFR",
+      "invoke": "Default",
+      "sound_id": 318
+    },
+    {
+      "button_index": 92,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimArmMasterArm",
+      "invoke": "Default",
+      "sound_id": 311
+    },
+    {
+      "button_index": 93,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimSafeMasterArm",
+      "invoke": "Default",
+      "sound_id": 311
+    },
+    {
+      "button_index": 94,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimSimMasterArm",
+      "invoke": "Default",
+      "sound_id": 311
+    },
+    {
+      "button_index": 95,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimEmergencyJettison",
+      "invoke": "Default",
+      "sound_id": 123
+    },
+    {
+      "button_index": 96,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimHsiHdgDecBy1",
+      "invoke": "Default",
+      "sound_id": 116
+    },
+    {
+      "button_index": 97,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimHsiHdgIncBy1",
+      "invoke": "Default",
+      "sound_id": 116
+    },
+    {
+      "button_index": 99,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimHsiCrsDecBy1",
+      "invoke": "Default",
+      "sound_id": 116
+    },
+    {
+      "button_index": 100,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimHsiCrsIncBy1",
+      "invoke": "Default",
+      "sound_id": 116
+    },
+    {
+      "button_index": 104,
+      "assignment_index": 0,
+      "shift_state": "Unshifted",
+      "trigger": "Press",
+      "callback_name": "SimCATSwitch",
+      "invoke": "Default",
+      "sound_id": 115
+    }
+  ],
+  "pov_bindings": [
+  ]
+}
